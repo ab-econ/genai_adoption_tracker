@@ -1,12 +1,12 @@
 {
   "releaseID": "ReleaseID",
-  "transmissionDt": "2026-07-22 15:01:39.39",
+  "transmissionDt": "2026-07-23 13:39:14.14",
   "version": "2.0",
   "series": [
     {
       "source_id": "RPS_GENAI_USAGESHARE_ALL",
       "metadata": {
-        "title": "Adoption Rate Overall: Working-Age Adults",
+        "title": "Generative Artificial Intelligence Adoption Rate Overall: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -53,7 +53,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_LW_ALL",
       "metadata": {
-        "title": "Use Last Week Overall: Working-Age Adults",
+        "title": "Generative Artificial Intelligence Use Last Week Overall: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -100,7 +100,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_EDLW_ALL",
       "metadata": {
-        "title": "Daily Use Overall: Working-Age Adults",
+        "title": "Generative Artificial Intelligence Daily Use Overall: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -147,7 +147,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_WORK",
       "metadata": {
-        "title": "Adoption Rate for Work: Employed Adults",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -194,7 +194,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_LW_WORK",
       "metadata": {
-        "title": "Use Last Week for Work: Employed Adults",
+        "title": "Generative Artificial Intelligence Use Last Week for Work: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -241,7 +241,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_EDLW_WORK",
       "metadata": {
-        "title": "Daily Use for Work: Employed Adults",
+        "title": "Generative Artificial Intelligence Daily Use for Work: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -288,7 +288,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_NONWORK",
       "metadata": {
-        "title": "Adoption Rate Outside of Work: Working-Age Adults",
+        "title": "Generative Artificial Intelligence Adoption Rate Outside of Work: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -335,7 +335,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_LW_NONWORK",
       "metadata": {
-        "title": "Use Last Week Outside of Work: Working-Age Adults",
+        "title": "Generative Artificial Intelligence Use Last Week Outside of Work: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -382,7 +382,7 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_EDLW_NONWORK",
       "metadata": {
-        "title": "Daily Use Outside of Work: Working-Age Adults",
+        "title": "Generative Artificial Intelligence Daily Use Outside of Work: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -429,11 +429,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND1",
       "metadata": {
-        "title": "Adoption Rate for Work: Agriculture, Forestry, Fishing, and Hunting",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Agriculture, Forestry, Fishing, and Hunting",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Agriculture, Forestry, Fishing, and Hunting who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -476,11 +476,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND2",
       "metadata": {
-        "title": "Adoption Rate for Work: Mining, Quarrying, and Oil and Gas Extraction",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Mining, Quarrying, and Oil and Gas Extraction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Mining, Quarrying, and Oil and Gas Extraction who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -523,11 +523,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND3",
       "metadata": {
-        "title": "Adoption Rate for Work: Construction",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Construction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Construction who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -570,11 +570,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND4",
       "metadata": {
-        "title": "Adoption Rate for Work: Manufacturing",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Manufacturing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Manufacturing who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -617,11 +617,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND5",
       "metadata": {
-        "title": "Adoption Rate for Work: Wholesale Trade",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Wholesale Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Wholesale Trade who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -664,11 +664,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND6",
       "metadata": {
-        "title": "Adoption Rate for Work: Retail Trade",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Retail Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Retail Trade who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -711,11 +711,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND7",
       "metadata": {
-        "title": "Adoption Rate for Work: Transportation and Warehousing",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Transportation and Warehousing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Transportation and Warehousing who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -758,11 +758,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND8",
       "metadata": {
-        "title": "Adoption Rate for Work: Utilities",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Utilities",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Utilities who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -805,11 +805,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND9",
       "metadata": {
-        "title": "Adoption Rate for Work: Information",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Information",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Information who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -852,11 +852,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND10",
       "metadata": {
-        "title": "Adoption Rate for Work: Finance and Insurance",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Finance and Insurance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Finance and Insurance who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -899,11 +899,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND11",
       "metadata": {
-        "title": "Adoption Rate for Work: Real Estate and Rental and Leasing",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Real Estate and Rental and Leasing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Real Estate and Rental and Leasing who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -946,11 +946,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND12",
       "metadata": {
-        "title": "Adoption Rate for Work: Professional, Scientific, and Technical Services",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Professional, Scientific, and Technical Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Professional, Scientific, and Technical Services who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -993,11 +993,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND13",
       "metadata": {
-        "title": "Adoption Rate for Work: Management of Companies and Enterprises",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Management of Companies and Enterprises",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Management of Companies and Enterprises who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1040,11 +1040,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND14",
       "metadata": {
-        "title": "Adoption Rate for Work: Administrative and Support and Waste Management Services",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Administrative and Support and Waste Management Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Administrative and Support and Waste Management Services who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1087,11 +1087,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND15",
       "metadata": {
-        "title": "Adoption Rate for Work: Educational Services",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Educational Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Educational Services who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1134,11 +1134,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND16",
       "metadata": {
-        "title": "Adoption Rate for Work: Health Care and Social Assistance",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Health Care and Social Assistance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Health Care and Social Assistance who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1181,11 +1181,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND17",
       "metadata": {
-        "title": "Adoption Rate for Work: Arts, Entertainment, and Recreation",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Arts, Entertainment, and Recreation",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Arts, Entertainment, and Recreation who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1228,11 +1228,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND18",
       "metadata": {
-        "title": "Adoption Rate for Work: Accommodation and Food Services",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Accommodation and Food Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Accommodation and Food Services who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1275,11 +1275,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND19",
       "metadata": {
-        "title": "Adoption Rate for Work: Other Services, Except Public Administration",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Other Services, Except Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Other Services, Except Public Administration who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1322,11 +1322,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND20",
       "metadata": {
-        "title": "Adoption Rate for Work: Public Administration",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", ind, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Public Administration who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1369,11 +1369,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC1",
       "metadata": {
-        "title": "Adoption Rate for Work: Management Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Management Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Management Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1416,11 +1416,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC2",
       "metadata": {
-        "title": "Adoption Rate for Work: Business and Financial Operations Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Business and Financial Operations Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Business and Financial Operations Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1463,11 +1463,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC3",
       "metadata": {
-        "title": "Adoption Rate for Work: Computer and Mathematical Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Computer and Mathematical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Computer and Mathematical Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1510,11 +1510,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC4",
       "metadata": {
-        "title": "Adoption Rate for Work: Architecture and Engineering Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Architecture and Engineering Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Architecture and Engineering Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1557,11 +1557,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC5",
       "metadata": {
-        "title": "Adoption Rate for Work: Life, Physical, and Social Science Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Life, Physical, and Social Science Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Life, Physical, and Social Science Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1604,11 +1604,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC6",
       "metadata": {
-        "title": "Adoption Rate for Work: Community and Social Service Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Community and Social Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Community and Social Service Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1651,11 +1651,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC7",
       "metadata": {
-        "title": "Adoption Rate for Work: Legal Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Legal Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Legal Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1698,11 +1698,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC8",
       "metadata": {
-        "title": "Adoption Rate for Work: Educational Instruction and Library Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Educational Instruction and Library Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Educational Instruction and Library Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1745,11 +1745,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC9",
       "metadata": {
-        "title": "Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Arts, Design, Entertainment, Sports, and Media Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1792,11 +1792,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC10",
       "metadata": {
-        "title": "Adoption Rate for Work: Healthcare Practitioners and Technical Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Healthcare Practitioners and Technical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Healthcare Practitioners and Technical Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1839,11 +1839,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC11",
       "metadata": {
-        "title": "Adoption Rate for Work: Healthcare Support Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Healthcare Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Healthcare Support Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1886,11 +1886,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC12",
       "metadata": {
-        "title": "Adoption Rate for Work: Protective Service Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Protective Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Protective Service Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1933,11 +1933,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC13",
       "metadata": {
-        "title": "Adoption Rate for Work: Food Preparation and Serving Related Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Food Preparation and Serving Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Food Preparation and Serving Related Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -1980,11 +1980,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC14",
       "metadata": {
-        "title": "Adoption Rate for Work: Building and Grounds Cleaning and Maintenance Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Building and Grounds Cleaning and Maintenance Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Building and Grounds Cleaning and Maintenance Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2027,11 +2027,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC15",
       "metadata": {
-        "title": "Adoption Rate for Work: Personal Care and Service Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Personal Care and Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Personal Care and Service Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2074,11 +2074,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC16",
       "metadata": {
-        "title": "Adoption Rate for Work: Sales and Related Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Sales and Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Sales and Related Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2121,11 +2121,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC17",
       "metadata": {
-        "title": "Adoption Rate for Work: Office and Administrative Support Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Office and Administrative Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Office and Administrative Support Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2168,11 +2168,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC18",
       "metadata": {
-        "title": "Adoption Rate for Work: Farming, Fishing, and Forestry Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Farming, Fishing, and Forestry Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Farming, Fishing, and Forestry Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2215,11 +2215,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC19",
       "metadata": {
-        "title": "Adoption Rate for Work: Construction and Extraction Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Construction and Extraction Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Construction and Extraction Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2262,11 +2262,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC20",
       "metadata": {
-        "title": "Adoption Rate for Work: Installation, Maintenance, and Repair Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Installation, Maintenance, and Repair Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Installation, Maintenance, and Repair Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2309,11 +2309,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC21",
       "metadata": {
-        "title": "Adoption Rate for Work: Production Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Production Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Production Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2356,11 +2356,11 @@
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC22",
       "metadata": {
-        "title": "Adoption Rate for Work: Transportation and Material Moving Occupations",
+        "title": "Generative Artificial Intelligence Adoption Rate for Work: Transportation and Material Moving Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of employed adults aged 18-64 working in \", occ, \" who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of employed adults aged 18-64 working in Transportation and Material Moving Occupations who use generative artificial intelligence for work. Employed respondents are asked: \"Do you use Generative AI for your job?\" Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2450,11 +2450,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND1",
       "metadata": {
-        "title": "Time Savings: Agriculture, Forestry, Fishing, and Hunting",
+        "title": "Generative Artificial Intelligence Time Savings: Agriculture, Forestry, Fishing, and Hunting",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Agriculture, Forestry, Fishing, and Hunting due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2497,11 +2497,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND2",
       "metadata": {
-        "title": "Time Savings: Mining, Quarrying, and Oil and Gas Extraction",
+        "title": "Generative Artificial Intelligence Time Savings: Mining, Quarrying, and Oil and Gas Extraction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Mining, Quarrying, and Oil and Gas Extraction due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2544,11 +2544,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND3",
       "metadata": {
-        "title": "Time Savings: Construction",
+        "title": "Generative Artificial Intelligence Time Savings: Construction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Construction due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2591,11 +2591,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND4",
       "metadata": {
-        "title": "Time Savings: Manufacturing",
+        "title": "Generative Artificial Intelligence Time Savings: Manufacturing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Manufacturing due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2638,11 +2638,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND5",
       "metadata": {
-        "title": "Time Savings: Wholesale Trade",
+        "title": "Generative Artificial Intelligence Time Savings: Wholesale Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Wholesale Trade due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2685,11 +2685,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND6",
       "metadata": {
-        "title": "Time Savings: Retail Trade",
+        "title": "Generative Artificial Intelligence Time Savings: Retail Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Retail Trade due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2732,11 +2732,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND7",
       "metadata": {
-        "title": "Time Savings: Transportation and Warehousing",
+        "title": "Generative Artificial Intelligence Time Savings: Transportation and Warehousing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Transportation and Warehousing due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2779,11 +2779,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND8",
       "metadata": {
-        "title": "Time Savings: Utilities",
+        "title": "Generative Artificial Intelligence Time Savings: Utilities",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Utilities due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2826,11 +2826,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND9",
       "metadata": {
-        "title": "Time Savings: Information",
+        "title": "Generative Artificial Intelligence Time Savings: Information",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Information due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2873,11 +2873,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND10",
       "metadata": {
-        "title": "Time Savings: Finance and Insurance",
+        "title": "Generative Artificial Intelligence Time Savings: Finance and Insurance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Finance and Insurance due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2920,11 +2920,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND11",
       "metadata": {
-        "title": "Time Savings: Real Estate and Rental and Leasing",
+        "title": "Generative Artificial Intelligence Time Savings: Real Estate and Rental and Leasing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Real Estate and Rental and Leasing due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -2967,11 +2967,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND12",
       "metadata": {
-        "title": "Time Savings: Professional, Scientific, and Technical Services",
+        "title": "Generative Artificial Intelligence Time Savings: Professional, Scientific, and Technical Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Professional, Scientific, and Technical Services due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3014,11 +3014,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND13",
       "metadata": {
-        "title": "Time Savings: Management of Companies and Enterprises",
+        "title": "Generative Artificial Intelligence Time Savings: Management of Companies and Enterprises",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Management of Companies and Enterprises due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3061,11 +3061,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND14",
       "metadata": {
-        "title": "Time Savings: Administrative and Support and Waste Management Services",
+        "title": "Generative Artificial Intelligence Time Savings: Administrative and Support and Waste Management Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Administrative and Support and Waste Management Services due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3108,11 +3108,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND15",
       "metadata": {
-        "title": "Time Savings: Educational Services",
+        "title": "Generative Artificial Intelligence Time Savings: Educational Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Educational Services due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3155,11 +3155,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND16",
       "metadata": {
-        "title": "Time Savings: Health Care and Social Assistance",
+        "title": "Generative Artificial Intelligence Time Savings: Health Care and Social Assistance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Health Care and Social Assistance due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3202,11 +3202,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND17",
       "metadata": {
-        "title": "Time Savings: Arts, Entertainment, and Recreation",
+        "title": "Generative Artificial Intelligence Time Savings: Arts, Entertainment, and Recreation",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Arts, Entertainment, and Recreation due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3249,11 +3249,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND18",
       "metadata": {
-        "title": "Time Savings: Accommodation and Food Services",
+        "title": "Generative Artificial Intelligence Time Savings: Accommodation and Food Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Accommodation and Food Services due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3296,11 +3296,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND19",
       "metadata": {
-        "title": "Time Savings: Other Services, Except Public Administration",
+        "title": "Generative Artificial Intelligence Time Savings: Other Services, Except Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Other Services, Except Public Administration due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3343,11 +3343,11 @@
     {
       "source_id": "RPS_GENAI_TS_IND20",
       "metadata": {
-        "title": "Time Savings: Public Administration",
+        "title": "Generative Artificial Intelligence Time Savings: Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in \", ind, \" due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours saved by employed adults aged 18-64 working in Public Administration due to the use of generative artificial intelligence at work. Employed respondents who used generative artificial intelligence for their job last week are asked how many additional hours of work they would have needed to complete the same amount of work without access to it, in brackets ranging from less than 1 additional hour to more than 4 additional hours. Time savings are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -3390,7 +3390,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC1",
       "metadata": {
-        "title": "Time Savings: Management Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Management Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3437,7 +3437,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC2",
       "metadata": {
-        "title": "Time Savings: Business and Financial Operations Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Business and Financial Operations Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3484,7 +3484,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC3",
       "metadata": {
-        "title": "Time Savings: Computer and Mathematical Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Computer and Mathematical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3531,7 +3531,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC4",
       "metadata": {
-        "title": "Time Savings: Architecture and Engineering Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Architecture and Engineering Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3578,7 +3578,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC5",
       "metadata": {
-        "title": "Time Savings: Life, Physical, and Social Science Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Life, Physical, and Social Science Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3625,7 +3625,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC6",
       "metadata": {
-        "title": "Time Savings: Community and Social Service Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Community and Social Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3672,7 +3672,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC7",
       "metadata": {
-        "title": "Time Savings: Legal Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Legal Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3719,7 +3719,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC8",
       "metadata": {
-        "title": "Time Savings: Educational Instruction and Library Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Educational Instruction and Library Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3766,7 +3766,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC9",
       "metadata": {
-        "title": "Time Savings: Arts, Design, Entertainment, Sports, and Media Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Arts, Design, Entertainment, Sports, and Media Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3813,7 +3813,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC10",
       "metadata": {
-        "title": "Time Savings: Healthcare Practitioners and Technical Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Healthcare Practitioners and Technical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3860,7 +3860,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC11",
       "metadata": {
-        "title": "Time Savings: Healthcare Support Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Healthcare Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3907,7 +3907,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC12",
       "metadata": {
-        "title": "Time Savings: Protective Service Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Protective Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3954,7 +3954,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC13",
       "metadata": {
-        "title": "Time Savings: Food Preparation and Serving Related Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Food Preparation and Serving Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4001,7 +4001,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC14",
       "metadata": {
-        "title": "Time Savings: Building and Grounds Cleaning and Maintenance Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Building and Grounds Cleaning and Maintenance Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4048,7 +4048,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC15",
       "metadata": {
-        "title": "Time Savings: Personal Care and Service Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Personal Care and Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4095,7 +4095,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC16",
       "metadata": {
-        "title": "Time Savings: Sales and Related Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Sales and Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4142,7 +4142,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC17",
       "metadata": {
-        "title": "Time Savings: Office and Administrative Support Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Office and Administrative Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4189,7 +4189,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC18",
       "metadata": {
-        "title": "Time Savings: Farming, Fishing, and Forestry Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Farming, Fishing, and Forestry Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4236,7 +4236,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC19",
       "metadata": {
-        "title": "Time Savings: Construction and Extraction Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Construction and Extraction Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4283,7 +4283,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC20",
       "metadata": {
-        "title": "Time Savings: Installation, Maintenance, and Repair Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Installation, Maintenance, and Repair Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4330,7 +4330,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC21",
       "metadata": {
-        "title": "Time Savings: Production Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Production Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4377,7 +4377,7 @@
     {
       "source_id": "RPS_GENAI_TS_OCC22",
       "metadata": {
-        "title": "Time Savings: Transportation and Material Moving Occupations",
+        "title": "Generative Artificial Intelligence Time Savings: Transportation and Material Moving Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4475,11 +4475,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND1",
       "metadata": {
-        "title": "Work Hours Assisted: Agriculture, Forestry, Fishing, and Hunting",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Agriculture, Forestry, Fishing, and Hunting",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Agriculture, Forestry, Fishing, and Hunting. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4526,11 +4526,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND2",
       "metadata": {
-        "title": "Work Hours Assisted: Mining, Quarrying, and Oil and Gas Extraction",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Mining, Quarrying, and Oil and Gas Extraction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Mining, Quarrying, and Oil and Gas Extraction. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4577,11 +4577,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND3",
       "metadata": {
-        "title": "Work Hours Assisted: Construction",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Construction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Construction. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4628,11 +4628,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND4",
       "metadata": {
-        "title": "Work Hours Assisted: Manufacturing",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Manufacturing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Manufacturing. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4679,11 +4679,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND5",
       "metadata": {
-        "title": "Work Hours Assisted: Wholesale Trade",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Wholesale Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Wholesale Trade. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4730,11 +4730,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND6",
       "metadata": {
-        "title": "Work Hours Assisted: Retail Trade",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Retail Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Retail Trade. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4781,11 +4781,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND7",
       "metadata": {
-        "title": "Work Hours Assisted: Transportation and Warehousing",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Transportation and Warehousing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Transportation and Warehousing. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4832,11 +4832,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND8",
       "metadata": {
-        "title": "Work Hours Assisted: Utilities",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Utilities",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Utilities. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4883,11 +4883,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND9",
       "metadata": {
-        "title": "Work Hours Assisted: Information",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Information",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Information. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4934,11 +4934,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND10",
       "metadata": {
-        "title": "Work Hours Assisted: Finance and Insurance",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Finance and Insurance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Finance and Insurance. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -4985,11 +4985,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND11",
       "metadata": {
-        "title": "Work Hours Assisted: Real Estate and Rental and Leasing",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Real Estate and Rental and Leasing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Real Estate and Rental and Leasing. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5036,11 +5036,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND12",
       "metadata": {
-        "title": "Work Hours Assisted: Professional, Scientific, and Technical Services",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Professional, Scientific, and Technical Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Professional, Scientific, and Technical Services. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5087,11 +5087,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND13",
       "metadata": {
-        "title": "Work Hours Assisted: Management of Companies and Enterprises",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Management of Companies and Enterprises",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Management of Companies and Enterprises. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5138,11 +5138,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND14",
       "metadata": {
-        "title": "Work Hours Assisted: Administrative and Support and Waste Management Services",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Administrative and Support and Waste Management Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Administrative and Support and Waste Management Services. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5189,11 +5189,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND15",
       "metadata": {
-        "title": "Work Hours Assisted: Educational Services",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Educational Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Educational Services. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5240,11 +5240,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND16",
       "metadata": {
-        "title": "Work Hours Assisted: Health Care and Social Assistance",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Health Care and Social Assistance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Health Care and Social Assistance. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5291,11 +5291,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND17",
       "metadata": {
-        "title": "Work Hours Assisted: Arts, Entertainment, and Recreation",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Arts, Entertainment, and Recreation",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Arts, Entertainment, and Recreation. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5342,11 +5342,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND18",
       "metadata": {
-        "title": "Work Hours Assisted: Accommodation and Food Services",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Accommodation and Food Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Accommodation and Food Services. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5393,11 +5393,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND19",
       "metadata": {
-        "title": "Work Hours Assisted: Other Services, Except Public Administration",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Other Services, Except Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Other Services, Except Public Administration. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5444,11 +5444,11 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND20",
       "metadata": {
-        "title": "Work Hours Assisted: Public Administration",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
-        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in \", ind, \".Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
+        "notes": "This series reports the share of total work hours assisted by generative artificial intelligence among employed adults aged 18-64 in Public Administration. Employed respondents who used generative artificial intelligence for their job last week report on how many workdays they used it (one, more than one, or every workday) and how much time they spent actively using it on those days (less than 15 minutes, 15 minutes to 1 hour, 1 to 4 hours, or more than 4 hours per day). Because both responses are bracketed, they imply a lower and an upper bound on assisted hours when combined with information on days worked and actual hours worked last week; this series reports the midpoint of the two bounds. Assisted hours are zero by construction for non-users. Data comes from the Real-Time Population Survey (RPS), a nationally representative online labor market survey of working-age adults aged 18-64 in the United States. When using this work, please cite: The Rapid Adoption of Generative AI, A. Bick, A. Blandin, and D. Deming, Management Science (2026) (https://pubsonline.informs.org/doi/10.1287/mnsc.2025.02523). See https://www.genaiadoptiontracker.com/ for more information.",
         "additional": {
           "tags": [
             ""
@@ -5495,7 +5495,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC1",
       "metadata": {
-        "title": "Work Hours Assisted: Management Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Management Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5546,7 +5546,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC2",
       "metadata": {
-        "title": "Work Hours Assisted: Business and Financial Operations Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Business and Financial Operations Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5597,7 +5597,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC3",
       "metadata": {
-        "title": "Work Hours Assisted: Computer and Mathematical Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Computer and Mathematical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5648,7 +5648,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC4",
       "metadata": {
-        "title": "Work Hours Assisted: Architecture and Engineering Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Architecture and Engineering Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5699,7 +5699,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC5",
       "metadata": {
-        "title": "Work Hours Assisted: Life, Physical, and Social Science Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Life, Physical, and Social Science Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5750,7 +5750,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC6",
       "metadata": {
-        "title": "Work Hours Assisted: Community and Social Service Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Community and Social Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5801,7 +5801,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC7",
       "metadata": {
-        "title": "Work Hours Assisted: Legal Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Legal Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5852,7 +5852,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC8",
       "metadata": {
-        "title": "Work Hours Assisted: Educational Instruction and Library Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Educational Instruction and Library Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5903,7 +5903,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC9",
       "metadata": {
-        "title": "Work Hours Assisted: Arts, Design, Entertainment, Sports, and Media Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Arts, Design, Entertainment, Sports, and Media Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5954,7 +5954,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC10",
       "metadata": {
-        "title": "Work Hours Assisted: Healthcare Practitioners and Technical Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Healthcare Practitioners and Technical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6005,7 +6005,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC11",
       "metadata": {
-        "title": "Work Hours Assisted: Healthcare Support Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Healthcare Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6056,7 +6056,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC12",
       "metadata": {
-        "title": "Work Hours Assisted: Protective Service Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Protective Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6107,7 +6107,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC13",
       "metadata": {
-        "title": "Work Hours Assisted: Food Preparation and Serving Related Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Food Preparation and Serving Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6158,7 +6158,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC14",
       "metadata": {
-        "title": "Work Hours Assisted: Building and Grounds Cleaning and Maintenance Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Building and Grounds Cleaning and Maintenance Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6209,7 +6209,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC15",
       "metadata": {
-        "title": "Work Hours Assisted: Personal Care and Service Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Personal Care and Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6260,7 +6260,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC16",
       "metadata": {
-        "title": "Work Hours Assisted: Sales and Related Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Sales and Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6311,7 +6311,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC17",
       "metadata": {
-        "title": "Work Hours Assisted: Office and Administrative Support Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Office and Administrative Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6362,7 +6362,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC18",
       "metadata": {
-        "title": "Work Hours Assisted: Farming, Fishing, and Forestry Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Farming, Fishing, and Forestry Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6413,7 +6413,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC19",
       "metadata": {
-        "title": "Work Hours Assisted: Construction and Extraction Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Construction and Extraction Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6464,7 +6464,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC20",
       "metadata": {
-        "title": "Work Hours Assisted: Installation, Maintenance, and Repair Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Installation, Maintenance, and Repair Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6515,7 +6515,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC21",
       "metadata": {
-        "title": "Work Hours Assisted: Production Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Production Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6566,7 +6566,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC22",
       "metadata": {
-        "title": "Work Hours Assisted: Transportation and Material Moving Occupations",
+        "title": "Generative Artificial Intelligence Work Hours Assisted: Transportation and Material Moving Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
