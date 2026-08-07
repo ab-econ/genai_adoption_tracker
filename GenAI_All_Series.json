@@ -1,12 +1,12 @@
 {
   "releaseID": "ReleaseID",
-  "transmissionDt": "2026-07-23 13:39:14.14",
+  "transmissionDt": "2026-07-29 16:47:10.10",
   "version": "2.0",
   "series": [
     {
       "source_id": "RPS_GENAI_USAGESHARE_ALL",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate Overall: Working-Age Adults",
+        "title": "Generative Artificial Intelligence, Adoption Rate Overall: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -22,19 +22,19 @@
       "observations": [
         [
           "2024-08-01",
-          "44.61920346041236"
+          "44.619203460412358"
         ],
         [
           "2024-11-01",
-          "46.33694907150873"
+          "46.336949071508727"
         ],
         [
           "2025-02-01",
-          "47.97555284732694"
+          "47.975552847326938"
         ],
         [
           "2025-05-01",
-          "51.86488736986865"
+          "51.864887369868647"
         ],
         [
           "2025-08-01",
@@ -42,18 +42,22 @@
         ],
         [
           "2025-11-01",
-          "55.92530084998809"
+          "55.925300849988091"
         ],
         [
           "2026-02-01",
-          "57.86560276691952"
+          "57.865602766919523"
+        ],
+        [
+          "2026-05-01",
+          "61.780243101422784"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_LW_ALL",
       "metadata": {
-        "title": "Generative Artificial Intelligence Use Last Week Overall: Working-Age Adults",
+        "title": "Generative Artificial Intelligence, Use Last Week Overall: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -69,38 +73,42 @@
       "observations": [
         [
           "2024-08-01",
-          "36.05863619578688"
+          "36.058636195786882"
         ],
         [
           "2024-11-01",
-          "38.19923668878047"
+          "38.199236688780474"
         ],
         [
           "2025-02-01",
-          "40.37903822616222"
+          "40.379038226162223"
         ],
         [
           "2025-05-01",
-          "44.01658780867239"
+          "44.016587808672391"
         ],
         [
           "2025-08-01",
-          "46.84735646014641"
+          "46.847356460146408"
         ],
         [
           "2025-11-01",
-          "47.80634544903761"
+          "47.806345449037607"
         ],
         [
           "2026-02-01",
-          "50.81558436822201"
+          "50.815584368222012"
+        ],
+        [
+          "2026-05-01",
+          "54.208742485820878"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_EDLW_ALL",
       "metadata": {
-        "title": "Generative Artificial Intelligence Daily Use Overall: Working-Age Adults",
+        "title": "Generative Artificial Intelligence, Daily Use Overall: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -120,7 +128,7 @@
         ],
         [
           "2024-11-01",
-          "8.922570301467436"
+          "8.9225703014674362"
         ],
         [
           "2025-02-01",
@@ -128,7 +136,7 @@
         ],
         [
           "2025-05-01",
-          "12.27650993656263"
+          "12.276509936562629"
         ],
         [
           "2025-08-01",
@@ -136,18 +144,22 @@
         ],
         [
           "2025-11-01",
-          "13.20068177302761"
+          "13.200681773027609"
         ],
         [
           "2026-02-01",
           "14.37517367798729"
+        ],
+        [
+          "2026-05-01",
+          "15.43863182676218"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_WORK",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Employed Adults",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -163,15 +175,15 @@
       "observations": [
         [
           "2024-08-01",
-          "33.27128313557179"
+          "33.271283135571792"
         ],
         [
           "2024-11-01",
-          "31.00843898740946"
+          "31.008438987409459"
         ],
         [
           "2025-02-01",
-          "32.74658004432651"
+          "32.746580044326507"
         ],
         [
           "2025-05-01",
@@ -179,22 +191,26 @@
         ],
         [
           "2025-08-01",
-          "37.3594742711899"
+          "37.359474271189903"
         ],
         [
           "2025-11-01",
-          "40.73303622305257"
+          "40.733036223052572"
         ],
         [
           "2026-02-01",
-          "43.4125281086156"
+          "43.412528108615597"
+        ],
+        [
+          "2026-05-01",
+          "45.199318123092887"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_LW_WORK",
       "metadata": {
-        "title": "Generative Artificial Intelligence Use Last Week for Work: Employed Adults",
+        "title": "Generative Artificial Intelligence, Use Last Week for Work: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -210,7 +226,7 @@
       "observations": [
         [
           "2024-08-01",
-          "28.19400296580107"
+          "28.194002965801069"
         ],
         [
           "2024-11-01",
@@ -218,7 +234,7 @@
         ],
         [
           "2025-02-01",
-          "29.27846030791232"
+          "29.278460307912319"
         ],
         [
           "2025-05-01",
@@ -226,22 +242,26 @@
         ],
         [
           "2025-08-01",
-          "32.0116100814928"
+          "32.011610081492798"
         ],
         [
           "2025-11-01",
-          "35.19527407539969"
+          "35.195274075399688"
         ],
         [
           "2026-02-01",
-          "37.82735431551833"
+          "37.827354315518328"
+        ],
+        [
+          "2026-05-01",
+          "39.233697211110673"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_EDLW_WORK",
       "metadata": {
-        "title": "Generative Artificial Intelligence Daily Use for Work: Employed Adults",
+        "title": "Generative Artificial Intelligence, Daily Use for Work: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -269,11 +289,11 @@
         ],
         [
           "2025-05-01",
-          "11.1500328324437"
+          "11.150032832443699"
         ],
         [
           "2025-08-01",
-          "12.56318435206031"
+          "12.563184352060309"
         ],
         [
           "2025-11-01",
@@ -282,13 +302,17 @@
         [
           "2026-02-01",
           "12.57040526458902"
+        ],
+        [
+          "2026-05-01",
+          "13.69335282503981"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_NONWORK",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate Outside of Work: Working-Age Adults",
+        "title": "Generative Artificial Intelligence, Adoption Rate Outside of Work: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -304,7 +328,7 @@
       "observations": [
         [
           "2024-08-01",
-          "36.02987256996535"
+          "36.029872569965349"
         ],
         [
           "2024-11-01",
@@ -312,30 +336,34 @@
         ],
         [
           "2025-02-01",
-          "41.93577638238143"
+          "41.935776382381427"
         ],
         [
           "2025-05-01",
-          "45.9421226342747"
+          "45.942122634274703"
         ],
         [
           "2025-08-01",
-          "48.58716827503755"
+          "48.587168275037548"
         ],
         [
           "2025-11-01",
-          "49.68852763100087"
+          "49.688527631000873"
         ],
         [
           "2026-02-01",
-          "51.33110641776222"
+          "51.331106417762221"
+        ],
+        [
+          "2026-05-01",
+          "54.807796052063793"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_LW_NONWORK",
       "metadata": {
-        "title": "Generative Artificial Intelligence Use Last Week Outside of Work: Working-Age Adults",
+        "title": "Generative Artificial Intelligence, Use Last Week Outside of Work: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -351,7 +379,7 @@
       "observations": [
         [
           "2024-08-01",
-          "28.65203499486387"
+          "28.652034994863872"
         ],
         [
           "2024-11-01",
@@ -359,15 +387,15 @@
         ],
         [
           "2025-02-01",
-          "34.42017802338526"
+          "34.420178023385262"
         ],
         [
           "2025-05-01",
-          "38.28776290706899"
+          "38.287762907068988"
         ],
         [
           "2025-08-01",
-          "41.85008043590305"
+          "41.850080435903052"
         ],
         [
           "2025-11-01",
@@ -375,14 +403,18 @@
         ],
         [
           "2026-02-01",
-          "44.64048872300094"
+          "44.640488723000942"
+        ],
+        [
+          "2026-05-01",
+          "47.91954408630572"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_EDLW_NONWORK",
       "metadata": {
-        "title": "Generative Artificial Intelligence Daily Use Outside of Work: Working-Age Adults",
+        "title": "Generative Artificial Intelligence, Daily Use Outside of Work: Working-Age Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -398,11 +430,11 @@
       "observations": [
         [
           "2024-08-01",
-          "6.884756093944359"
+          "6.8847560939443593"
         ],
         [
           "2024-11-01",
-          "4.421738032321268"
+          "4.4217380323212678"
         ],
         [
           "2025-02-01",
@@ -410,26 +442,30 @@
         ],
         [
           "2025-05-01",
-          "7.235041174791262"
+          "7.2350411747912622"
         ],
         [
           "2025-08-01",
-          "8.329429848695796"
+          "8.3294298486957956"
         ],
         [
           "2025-11-01",
-          "7.618598690172011"
+          "7.6185986901720106"
         ],
         [
           "2026-02-01",
-          "8.706961068734119"
+          "8.7069610687341186"
+        ],
+        [
+          "2026-05-01",
+          "9.6592743908080507"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND1",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Agriculture, Forestry, Fishing, and Hunting",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Agriculture, Forestry, Fishing, and Hunting",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -445,11 +481,11 @@
       "observations": [
         [
           "2024-08-01",
-          "38.11929490255356"
+          "38.119294902553563"
         ],
         [
           "2024-11-01",
-          "37.59196686382475"
+          "37.591966863824751"
         ],
         [
           "2025-02-01",
@@ -457,7 +493,7 @@
         ],
         [
           "2025-05-01",
-          "37.03131085010732"
+          "37.031310850107317"
         ],
         [
           "2025-08-01",
@@ -465,18 +501,22 @@
         ],
         [
           "2025-11-01",
-          "35.7396735038847"
+          "35.739673503884703"
         ],
         [
           "2026-02-01",
-          "36.066809216035"
+          "36.066809216034997"
+        ],
+        [
+          "2026-05-01",
+          "34.770676990554954"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND2",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Mining, Quarrying, and Oil and Gas Extraction",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Mining, Quarrying, and Oil and Gas Extraction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -492,38 +532,42 @@
       "observations": [
         [
           "2024-08-01",
-          "50.5673798709361"
+          "50.567379870936101"
         ],
         [
           "2024-11-01",
-          "53.34734699535269"
+          "53.347346995352687"
         ],
         [
           "2025-02-01",
-          "58.91864799355059"
+          "58.918647993550593"
         ],
         [
           "2025-05-01",
-          "54.92235587989482"
+          "54.922355879894823"
         ],
         [
           "2025-08-01",
-          "65.35756289277337"
+          "65.357562892773373"
         ],
         [
           "2025-11-01",
-          "46.06591896733702"
+          "46.065918967337019"
         ],
         [
           "2026-02-01",
           "44.9596940608401"
+        ],
+        [
+          "2026-05-01",
+          "26.09945653941239"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND3",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Construction",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Construction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -539,7 +583,7 @@
       "observations": [
         [
           "2024-08-01",
-          "37.77580628877696"
+          "37.775806288776963"
         ],
         [
           "2024-11-01",
@@ -547,30 +591,34 @@
         ],
         [
           "2025-02-01",
-          "30.89267404878863"
+          "30.892674048788631"
         ],
         [
           "2025-05-01",
-          "37.36144836960481"
+          "37.361448369604808"
         ],
         [
           "2025-08-01",
-          "37.93615925833356"
+          "37.936159258333561"
         ],
         [
           "2025-11-01",
-          "42.80126390188526"
+          "42.801263901885257"
         ],
         [
           "2026-02-01",
-          "51.35781629071923"
+          "51.357816290719228"
+        ],
+        [
+          "2026-05-01",
+          "43.542483339839727"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND4",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Manufacturing",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Manufacturing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -586,38 +634,42 @@
       "observations": [
         [
           "2024-08-01",
-          "35.1998454671793"
+          "35.199845467179301"
         ],
         [
           "2024-11-01",
-          "25.02278110638744"
+          "25.022781106387441"
         ],
         [
           "2025-02-01",
-          "31.52580943436359"
+          "31.525809434363591"
         ],
         [
           "2025-05-01",
-          "35.01288458675336"
+          "35.012884586753358"
         ],
         [
           "2025-08-01",
-          "41.22981382711245"
+          "41.229813827112451"
         ],
         [
           "2025-11-01",
-          "39.8784203557062"
+          "39.878420355706197"
         ],
         [
           "2026-02-01",
-          "47.70541417646108"
+          "47.705414176461083"
+        ],
+        [
+          "2026-05-01",
+          "47.658671099948691"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND5",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Wholesale Trade",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Wholesale Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -645,26 +697,30 @@
         ],
         [
           "2025-05-01",
-          "41.63345687897324"
+          "41.633456878973242"
         ],
         [
           "2025-08-01",
-          "39.4578598871548"
+          "39.457859887154797"
         ],
         [
           "2025-11-01",
-          "48.37608935368053"
+          "48.376089353680527"
         ],
         [
           "2026-02-01",
-          "35.37006729071054"
+          "35.370067290710537"
+        ],
+        [
+          "2026-05-01",
+          "62.11654594019852"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND6",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Retail Trade",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Retail Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -680,15 +736,15 @@
       "observations": [
         [
           "2024-08-01",
-          "34.77354903418033"
+          "34.773549034180327"
         ],
         [
           "2024-11-01",
-          "27.91434628748098"
+          "27.914346287480981"
         ],
         [
           "2025-02-01",
-          "27.15696515582582"
+          "27.156965155825819"
         ],
         [
           "2025-05-01",
@@ -696,7 +752,7 @@
         ],
         [
           "2025-08-01",
-          "27.04632431330053"
+          "27.046324313300531"
         ],
         [
           "2025-11-01",
@@ -704,14 +760,18 @@
         ],
         [
           "2026-02-01",
-          "33.59275652799555"
+          "33.592756527995547"
+        ],
+        [
+          "2026-05-01",
+          "39.4512265616669"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND7",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Transportation and Warehousing",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Transportation and Warehousing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -727,11 +787,11 @@
       "observations": [
         [
           "2024-08-01",
-          "17.7695779519853"
+          "17.769577951985301"
         ],
         [
           "2024-11-01",
-          "19.867612317465"
+          "19.867612317464999"
         ],
         [
           "2025-02-01",
@@ -739,7 +799,7 @@
         ],
         [
           "2025-05-01",
-          "20.80973279787966"
+          "20.809732797879661"
         ],
         [
           "2025-08-01",
@@ -747,18 +807,22 @@
         ],
         [
           "2025-11-01",
-          "20.96250366496876"
+          "20.962503664968761"
         ],
         [
           "2026-02-01",
-          "29.92073301897108"
+          "29.920733018971081"
+        ],
+        [
+          "2026-05-01",
+          "25.104184559080359"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND8",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Utilities",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Utilities",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -774,38 +838,42 @@
       "observations": [
         [
           "2024-08-01",
-          "33.24384567184112"
+          "33.243845671841122"
         ],
         [
           "2024-11-01",
-          "31.03317081141712"
+          "31.033170811417119"
         ],
         [
           "2025-02-01",
-          "40.74015277579887"
+          "40.740152775798869"
         ],
         [
           "2025-05-01",
-          "51.10371997786943"
+          "51.103719977869432"
         ],
         [
           "2025-08-01",
-          "43.70784720110861"
+          "43.707847201108613"
         ],
         [
           "2025-11-01",
-          "52.49547657045176"
+          "52.495476570451757"
         ],
         [
           "2026-02-01",
-          "47.13774134930419"
+          "47.137741349304193"
+        ],
+        [
+          "2026-05-01",
+          "56.427154033632277"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND9",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Information",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Information",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -821,7 +889,7 @@
       "observations": [
         [
           "2024-08-01",
-          "64.70635838248936"
+          "64.706358382489356"
         ],
         [
           "2024-11-01",
@@ -829,15 +897,15 @@
         ],
         [
           "2025-02-01",
-          "59.71484726262572"
+          "59.714847262625717"
         ],
         [
           "2025-05-01",
-          "59.30197517658083"
+          "59.301975176580832"
         ],
         [
           "2025-08-01",
-          "68.96888368949519"
+          "68.968883689495186"
         ],
         [
           "2025-11-01",
@@ -845,14 +913,18 @@
         ],
         [
           "2026-02-01",
-          "68.44761164050534"
+          "68.447611640505343"
+        ],
+        [
+          "2026-05-01",
+          "82.19260364835911"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND10",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Finance and Insurance",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Finance and Insurance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -868,38 +940,42 @@
       "observations": [
         [
           "2024-08-01",
-          "51.87336082759813"
+          "51.873360827598127"
         ],
         [
           "2024-11-01",
-          "48.45279615083779"
+          "48.452796150837791"
         ],
         [
           "2025-02-01",
-          "37.86030405916781"
+          "37.860304059167809"
         ],
         [
           "2025-05-01",
-          "45.44433013672979"
+          "45.444330136729789"
         ],
         [
           "2025-08-01",
-          "56.09357130697721"
+          "56.093571306977211"
         ],
         [
           "2025-11-01",
-          "63.18259479129733"
+          "63.182594791297333"
         ],
         [
           "2026-02-01",
-          "66.13085170413979"
+          "66.130851704139786"
+        ],
+        [
+          "2026-05-01",
+          "67.332404009988338"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND11",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Real Estate and Rental and Leasing",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Real Estate and Rental and Leasing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -915,23 +991,23 @@
       "observations": [
         [
           "2024-08-01",
-          "45.61197435706006"
+          "45.611974357060063"
         ],
         [
           "2024-11-01",
-          "23.53650284874543"
+          "23.536502848745432"
         ],
         [
           "2025-02-01",
-          "28.60589838974398"
+          "28.605898389743981"
         ],
         [
           "2025-05-01",
-          "42.17238495619721"
+          "42.172384956197213"
         ],
         [
           "2025-08-01",
-          "46.12398903570375"
+          "46.123989035703751"
         ],
         [
           "2025-11-01",
@@ -939,14 +1015,18 @@
         ],
         [
           "2026-02-01",
-          "54.53759201708586"
+          "54.537592017085863"
+        ],
+        [
+          "2026-05-01",
+          "56.492835838167402"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND12",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Professional, Scientific, and Technical Services",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Professional, Scientific, and Technical Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -962,38 +1042,42 @@
       "observations": [
         [
           "2024-08-01",
-          "45.10432975263203"
+          "45.104329752632033"
         ],
         [
           "2024-11-01",
-          "46.65550151714945"
+          "46.655501517149453"
         ],
         [
           "2025-02-01",
-          "47.26509438027829"
+          "47.265094380278292"
         ],
         [
           "2025-05-01",
-          "52.40630186769613"
+          "52.406301867696129"
         ],
         [
           "2025-08-01",
-          "62.43848281160619"
+          "62.438482811606193"
         ],
         [
           "2025-11-01",
-          "61.68699361063504"
+          "61.686993610635042"
         ],
         [
           "2026-02-01",
-          "63.95501052321259"
+          "63.955010523212593"
+        ],
+        [
+          "2026-05-01",
+          "69.542944333243369"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND13",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Management of Companies and Enterprises",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Management of Companies and Enterprises",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1009,38 +1093,42 @@
       "observations": [
         [
           "2024-08-01",
-          "58.24390021092938"
+          "58.243900210929382"
         ],
         [
           "2024-11-01",
-          "68.46525852549858"
+          "68.465258525498584"
         ],
         [
           "2025-02-01",
-          "72.61125948414704"
+          "72.611259484147041"
         ],
         [
           "2025-05-01",
-          "49.35732308807033"
+          "49.357323088070331"
         ],
         [
           "2025-08-01",
-          "64.79469732476696"
+          "64.794697324766958"
         ],
         [
           "2025-11-01",
-          "72.05724765605291"
+          "72.057247656052908"
         ],
         [
           "2026-02-01",
-          "63.89750625017579"
+          "63.897506250175788"
+        ],
+        [
+          "2026-05-01",
+          "64.459434399422307"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND14",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Administrative and Support and Waste Management Services",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Administrative and Support and Waste Management Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1056,38 +1144,42 @@
       "observations": [
         [
           "2024-08-01",
-          "21.03854006635642"
+          "21.038540066356418"
         ],
         [
           "2024-11-01",
-          "19.32683272999961"
+          "19.326832729999609"
         ],
         [
           "2025-02-01",
-          "20.74847061077257"
+          "20.748470610772571"
         ],
         [
           "2025-05-01",
-          "27.5099585875793"
+          "27.509958587579298"
         ],
         [
           "2025-08-01",
-          "29.40458111053137"
+          "29.404581110531371"
         ],
         [
           "2025-11-01",
-          "28.43247372677355"
+          "28.432473726773551"
         ],
         [
           "2026-02-01",
           "29.34596991269937"
+        ],
+        [
+          "2026-05-01",
+          "40.460115732280819"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND15",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Educational Services",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Educational Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1103,11 +1195,11 @@
       "observations": [
         [
           "2024-08-01",
-          "40.7939268081171"
+          "40.793926808117099"
         ],
         [
           "2024-11-01",
-          "31.62665901474272"
+          "31.626659014742721"
         ],
         [
           "2025-02-01",
@@ -1115,26 +1207,30 @@
         ],
         [
           "2025-05-01",
-          "37.05509135673545"
+          "37.055091356735453"
         ],
         [
           "2025-08-01",
-          "43.06929028589735"
+          "43.069290285897353"
         ],
         [
           "2025-11-01",
-          "50.50641036198458"
+          "50.506410361984578"
         ],
         [
           "2026-02-01",
-          "54.56185691867567"
+          "54.561856918675673"
+        ],
+        [
+          "2026-05-01",
+          "52.585186289582467"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND16",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Health Care and Social Assistance",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Health Care and Social Assistance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1150,38 +1246,42 @@
       "observations": [
         [
           "2024-08-01",
-          "23.44259985693379"
+          "23.442599856933789"
         ],
         [
           "2024-11-01",
-          "29.62820925448405"
+          "29.628209254484052"
         ],
         [
           "2025-02-01",
-          "31.05881499394332"
+          "31.058814993943319"
         ],
         [
           "2025-05-01",
-          "26.9159098341406"
+          "26.915909834140599"
         ],
         [
           "2025-08-01",
-          "23.01388739820967"
+          "23.013887398209668"
         ],
         [
           "2025-11-01",
-          "31.9074291972339"
+          "31.907429197233899"
         ],
         [
           "2026-02-01",
-          "34.60777808073534"
+          "34.607778080735343"
+        ],
+        [
+          "2026-05-01",
+          "37.165303461863537"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND17",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Arts, Entertainment, and Recreation",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Arts, Entertainment, and Recreation",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1197,23 +1297,23 @@
       "observations": [
         [
           "2024-08-01",
-          "22.63176780426481"
+          "22.631767804264811"
         ],
         [
           "2024-11-01",
-          "28.81129428022812"
+          "28.811294280228118"
         ],
         [
           "2025-02-01",
-          "30.05803525401066"
+          "30.058035254010662"
         ],
         [
           "2025-05-01",
-          "34.37947337726368"
+          "34.379473377263679"
         ],
         [
           "2025-08-01",
-          "29.08051478013165"
+          "29.080514780131651"
         ],
         [
           "2025-11-01",
@@ -1221,14 +1321,18 @@
         ],
         [
           "2026-02-01",
-          "28.51326695429387"
+          "28.513266954293869"
+        ],
+        [
+          "2026-05-01",
+          "31.99920808320265"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND18",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Accommodation and Food Services",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Accommodation and Food Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1252,30 +1356,34 @@
         ],
         [
           "2025-02-01",
-          "19.36692055498681"
+          "19.366920554986809"
         ],
         [
           "2025-05-01",
-          "22.83536794611713"
+          "22.835367946117131"
         ],
         [
           "2025-08-01",
-          "16.55818105070435"
+          "16.558181050704349"
         ],
         [
           "2025-11-01",
-          "20.86481589738557"
+          "20.864815897385569"
         ],
         [
           "2026-02-01",
-          "29.5089048784002"
+          "29.508904878400202"
+        ],
+        [
+          "2026-05-01",
+          "30.52520051999042"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND19",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Other Services, Except Public Administration",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Other Services, Except Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1299,15 +1407,15 @@
         ],
         [
           "2025-02-01",
-          "26.50820508121411"
+          "26.508205081214111"
         ],
         [
           "2025-05-01",
-          "25.65662125116537"
+          "25.656621251165369"
         ],
         [
           "2025-08-01",
-          "28.66414217662427"
+          "28.664142176624271"
         ],
         [
           "2025-11-01",
@@ -1315,14 +1423,18 @@
         ],
         [
           "2026-02-01",
-          "28.5320547217336"
+          "28.532054721733601"
+        ],
+        [
+          "2026-05-01",
+          "24.678413474759171"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_IND20",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Public Administration",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1342,7 +1454,7 @@
         ],
         [
           "2024-11-01",
-          "22.84437242908274"
+          "22.844372429082739"
         ],
         [
           "2025-02-01",
@@ -1354,22 +1466,26 @@
         ],
         [
           "2025-08-01",
-          "14.59101490655103"
+          "14.591014906551029"
         ],
         [
           "2025-11-01",
-          "26.7641618150899"
+          "26.764161815089899"
         ],
         [
           "2026-02-01",
-          "19.25073286764285"
+          "19.250732867642849"
+        ],
+        [
+          "2026-05-01",
+          "23.35467103636396"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC1",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Management Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Management Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1385,19 +1501,19 @@
       "observations": [
         [
           "2024-08-01",
-          "55.93415046298441"
+          "55.934150462984412"
         ],
         [
           "2024-11-01",
-          "48.07991426204207"
+          "48.079914262042067"
         ],
         [
           "2025-02-01",
-          "51.86451540376812"
+          "51.864515403768117"
         ],
         [
           "2025-05-01",
-          "49.58935727657494"
+          "49.589357276574937"
         ],
         [
           "2025-08-01",
@@ -1405,18 +1521,22 @@
         ],
         [
           "2025-11-01",
-          "62.40688068034462"
+          "62.406880680344621"
         ],
         [
           "2026-02-01",
-          "64.94606913641094"
+          "64.946069136410941"
+        ],
+        [
+          "2026-05-01",
+          "71.890200265400722"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC2",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Business and Financial Operations Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Business and Financial Operations Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1432,38 +1552,42 @@
       "observations": [
         [
           "2024-08-01",
-          "47.98511478713493"
+          "47.985114787134933"
         ],
         [
           "2024-11-01",
-          "48.47335104171715"
+          "48.473351041717152"
         ],
         [
           "2025-02-01",
-          "31.18961190217282"
+          "31.189611902172821"
         ],
         [
           "2025-05-01",
-          "41.80864130103579"
+          "41.808641301035792"
         ],
         [
           "2025-08-01",
-          "54.20402586501538"
+          "54.204025865015382"
         ],
         [
           "2025-11-01",
-          "58.32247029283272"
+          "58.322470292832719"
         ],
         [
           "2026-02-01",
-          "59.62556983923923"
+          "59.625569839239233"
+        ],
+        [
+          "2026-05-01",
+          "60.326031831787851"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC3",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Computer and Mathematical Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Computer and Mathematical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1479,11 +1603,11 @@
       "observations": [
         [
           "2024-08-01",
-          "54.27690955036134"
+          "54.276909550361339"
         ],
         [
           "2024-11-01",
-          "52.99804528679593"
+          "52.998045286795929"
         ],
         [
           "2025-02-01",
@@ -1491,26 +1615,30 @@
         ],
         [
           "2025-05-01",
-          "64.36782467068194"
+          "64.367824670681941"
         ],
         [
           "2025-08-01",
-          "71.05663776528928"
+          "71.056637765289281"
         ],
         [
           "2025-11-01",
-          "72.88958751316336"
+          "72.889587513163363"
         ],
         [
           "2026-02-01",
-          "71.94807451605244"
+          "71.948074516052444"
+        ],
+        [
+          "2026-05-01",
+          "77.615251291266958"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC4",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Architecture and Engineering Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Architecture and Engineering Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1526,38 +1654,42 @@
       "observations": [
         [
           "2024-08-01",
-          "29.76672368993255"
+          "29.766723689932551"
         ],
         [
           "2024-11-01",
-          "35.70392688764946"
+          "35.703926887649459"
         ],
         [
           "2025-02-01",
-          "26.69207251358807"
+          "26.692072513588069"
         ],
         [
           "2025-05-01",
-          "41.92699242447561"
+          "41.926992424475607"
         ],
         [
           "2025-08-01",
-          "46.75678651738701"
+          "46.756786517387013"
         ],
         [
           "2025-11-01",
-          "48.16701003041595"
+          "48.167010030415952"
         ],
         [
           "2026-02-01",
-          "63.10834091394378"
+          "63.108340913943778"
+        ],
+        [
+          "2026-05-01",
+          "49.862227665296238"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC5",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Life, Physical, and Social Science Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Life, Physical, and Social Science Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1577,15 +1709,15 @@
         ],
         [
           "2024-11-01",
-          "27.91212636506132"
+          "27.912126365061319"
         ],
         [
           "2025-02-01",
-          "35.90933324427712"
+          "35.909333244277121"
         ],
         [
           "2025-05-01",
-          "55.65921699455004"
+          "55.659216994550043"
         ],
         [
           "2025-08-01",
@@ -1597,14 +1729,18 @@
         ],
         [
           "2026-02-01",
-          "54.66252983790423"
+          "54.662529837904231"
+        ],
+        [
+          "2026-05-01",
+          "54.35773108337925"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC6",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Community and Social Service Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Community and Social Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1628,30 +1764,34 @@
         ],
         [
           "2025-02-01",
-          "32.63895642820383"
+          "32.638956428203826"
         ],
         [
           "2025-05-01",
-          "36.7754888457026"
+          "36.775488845702597"
         ],
         [
           "2025-08-01",
-          "29.99498711397124"
+          "29.994987113971241"
         ],
         [
           "2025-11-01",
-          "43.07175316936492"
+          "43.071753169364918"
         ],
         [
           "2026-02-01",
-          "50.07810344367015"
+          "50.078103443670152"
+        ],
+        [
+          "2026-05-01",
+          "53.832324397265893"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC7",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Legal Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Legal Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1671,34 +1811,38 @@
         ],
         [
           "2024-11-01",
-          "19.74003109297785"
+          "19.740031092977851"
         ],
         [
           "2025-02-01",
-          "47.69980707095566"
+          "47.699807070955657"
         ],
         [
           "2025-05-01",
-          "63.5301740366805"
+          "63.530174036680499"
         ],
         [
           "2025-08-01",
-          "59.83632016821164"
+          "59.836320168211643"
         ],
         [
           "2025-11-01",
-          "67.35240480947225"
+          "67.352404809472247"
         ],
         [
           "2026-02-01",
-          "65.06653941298541"
+          "65.066539412985406"
+        ],
+        [
+          "2026-05-01",
+          "53.26906035506498"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC8",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Educational Instruction and Library Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Educational Instruction and Library Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1714,11 +1858,11 @@
       "observations": [
         [
           "2024-08-01",
-          "45.9719724447509"
+          "45.971972444750897"
         ],
         [
           "2024-11-01",
-          "34.69912859450026"
+          "34.699128594500259"
         ],
         [
           "2025-02-01",
@@ -1726,26 +1870,30 @@
         ],
         [
           "2025-05-01",
-          "41.62581287169419"
+          "41.625812871694187"
         ],
         [
           "2025-08-01",
-          "49.81969719116127"
+          "49.819697191161268"
         ],
         [
           "2025-11-01",
-          "55.94216096005034"
+          "55.942160960050337"
         ],
         [
           "2026-02-01",
-          "58.21380546746573"
+          "58.213805467465733"
+        ],
+        [
+          "2026-05-01",
+          "56.29748965692869"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC9",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1761,38 +1909,42 @@
       "observations": [
         [
           "2024-08-01",
-          "32.66147032276665"
+          "32.661470322766647"
         ],
         [
           "2024-11-01",
-          "34.42972484539747"
+          "34.429724845397473"
         ],
         [
           "2025-02-01",
-          "52.6729210796843"
+          "52.672921079684301"
         ],
         [
           "2025-05-01",
-          "55.85680176044722"
+          "55.856801760447219"
         ],
         [
           "2025-08-01",
-          "57.11542065357579"
+          "57.115420653575789"
         ],
         [
           "2025-11-01",
-          "56.4955408298076"
+          "56.495540829807602"
         ],
         [
           "2026-02-01",
-          "45.03315786444955"
+          "45.033157864449549"
+        ],
+        [
+          "2026-05-01",
+          "51.080798222478329"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC10",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Healthcare Practitioners and Technical Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Healthcare Practitioners and Technical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1808,15 +1960,15 @@
       "observations": [
         [
           "2024-08-01",
-          "34.47405131254637"
+          "34.474051312546372"
         ],
         [
           "2024-11-01",
-          "38.31848462511076"
+          "38.318484625110763"
         ],
         [
           "2025-02-01",
-          "30.04071252803652"
+          "30.040712528036519"
         ],
         [
           "2025-05-01",
@@ -1824,22 +1976,26 @@
         ],
         [
           "2025-08-01",
-          "29.28926034398044"
+          "29.289260343980441"
         ],
         [
           "2025-11-01",
-          "43.62861951118178"
+          "43.628619511181782"
         ],
         [
           "2026-02-01",
           "38.4220177142697"
+        ],
+        [
+          "2026-05-01",
+          "44.688026317185923"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC11",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Healthcare Support Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Healthcare Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1855,7 +2011,7 @@
       "observations": [
         [
           "2024-08-01",
-          "19.9303785352863"
+          "19.930378535286302"
         ],
         [
           "2024-11-01",
@@ -1863,30 +2019,34 @@
         ],
         [
           "2025-02-01",
-          "31.63038467526433"
+          "31.630384675264331"
         ],
         [
           "2025-05-01",
-          "22.51765709196277"
+          "22.517657091962771"
         ],
         [
           "2025-08-01",
-          "16.64383761514329"
+          "16.643837615143291"
         ],
         [
           "2025-11-01",
-          "18.88429149216238"
+          "18.884291492162379"
         ],
         [
           "2026-02-01",
-          "21.1714918997256"
+          "21.171491899725599"
+        ],
+        [
+          "2026-05-01",
+          "24.51643751037329"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC12",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Protective Service Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Protective Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1902,7 +2062,7 @@
       "observations": [
         [
           "2024-08-01",
-          "15.83511518895565"
+          "15.835115188955649"
         ],
         [
           "2024-11-01",
@@ -1910,30 +2070,34 @@
         ],
         [
           "2025-02-01",
-          "4.541756290325144"
+          "4.5417562903251438"
         ],
         [
           "2025-05-01",
-          "14.27339534750901"
+          "14.273395347509011"
         ],
         [
           "2025-08-01",
-          "30.05570734858029"
+          "30.055707348580292"
         ],
         [
           "2025-11-01",
-          "35.08060140497491"
+          "35.080601404974907"
         ],
         [
           "2026-02-01",
           "14.66568874275749"
+        ],
+        [
+          "2026-05-01",
+          "15.571376244239049"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC13",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Food Preparation and Serving Related Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Food Preparation and Serving Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1949,7 +2113,7 @@
       "observations": [
         [
           "2024-08-01",
-          "5.422282788294956"
+          "5.4222827882949556"
         ],
         [
           "2024-11-01",
@@ -1961,26 +2125,30 @@
         ],
         [
           "2025-05-01",
-          "25.10954386416155"
+          "25.109543864161552"
         ],
         [
           "2025-08-01",
-          "12.48282480940975"
+          "12.482824809409751"
         ],
         [
           "2025-11-01",
-          "19.48644639713717"
+          "19.486446397137168"
         ],
         [
           "2026-02-01",
           "20.60901617063173"
+        ],
+        [
+          "2026-05-01",
+          "29.140792538113679"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC14",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Building and Grounds Cleaning and Maintenance Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Building and Grounds Cleaning and Maintenance Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -1996,7 +2164,7 @@
       "observations": [
         [
           "2024-08-01",
-          "18.77449241266923"
+          "18.774492412669229"
         ],
         [
           "2024-11-01",
@@ -2004,7 +2172,7 @@
         ],
         [
           "2025-02-01",
-          "9.218048300176321"
+          "9.2180483001763207"
         ],
         [
           "2025-05-01",
@@ -2012,7 +2180,7 @@
         ],
         [
           "2025-08-01",
-          "8.932192594412317"
+          "8.9321925944123173"
         ],
         [
           "2025-11-01",
@@ -2021,13 +2189,17 @@
         [
           "2026-02-01",
           "13.77135713886908"
+        ],
+        [
+          "2026-05-01",
+          "21.633413510873819"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC15",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Personal Care and Service Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Personal Care and Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2047,7 +2219,7 @@
         ],
         [
           "2024-11-01",
-          "17.72235942265199"
+          "17.722359422651991"
         ],
         [
           "2025-02-01",
@@ -2055,7 +2227,7 @@
         ],
         [
           "2025-05-01",
-          "14.56182074701304"
+          "14.561820747013041"
         ],
         [
           "2025-08-01",
@@ -2063,18 +2235,22 @@
         ],
         [
           "2025-11-01",
-          "21.83052205717808"
+          "21.830522057178079"
         ],
         [
           "2026-02-01",
-          "37.25338648351573"
+          "37.253386483515733"
+        ],
+        [
+          "2026-05-01",
+          "20.764420216786501"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC16",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Sales and Related Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Sales and Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2090,7 +2266,7 @@
       "observations": [
         [
           "2024-08-01",
-          "28.1745197698991"
+          "28.174519769899099"
         ],
         [
           "2024-11-01",
@@ -2098,7 +2274,7 @@
         ],
         [
           "2025-02-01",
-          "33.84312613361495"
+          "33.843126133614952"
         ],
         [
           "2025-05-01",
@@ -2106,22 +2282,26 @@
         ],
         [
           "2025-08-01",
-          "33.56861685190112"
+          "33.568616851901119"
         ],
         [
           "2025-11-01",
-          "36.83813627161688"
+          "36.838136271616882"
         ],
         [
           "2026-02-01",
           "39.94653457156781"
+        ],
+        [
+          "2026-05-01",
+          "45.675313067992469"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC17",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Office and Administrative Support Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Office and Administrative Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2145,30 +2325,34 @@
         ],
         [
           "2025-02-01",
-          "22.47747393975519"
+          "22.477473939755189"
         ],
         [
           "2025-05-01",
-          "29.58094585345984"
+          "29.580945853459841"
         ],
         [
           "2025-08-01",
-          "27.88492993444003"
+          "27.884929934440031"
         ],
         [
           "2025-11-01",
-          "32.16360719493481"
+          "32.163607194934812"
         ],
         [
           "2026-02-01",
-          "36.47293321686212"
+          "36.472933216862117"
+        ],
+        [
+          "2026-05-01",
+          "36.910049932968157"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC18",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Farming, Fishing, and Forestry Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Farming, Fishing, and Forestry Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2184,11 +2368,11 @@
       "observations": [
         [
           "2024-08-01",
-          "46.58523680273478"
+          "46.585236802734777"
         ],
         [
           "2024-11-01",
-          "31.78370915970365"
+          "31.783709159703651"
         ],
         [
           "2025-02-01",
@@ -2196,7 +2380,7 @@
         ],
         [
           "2025-05-01",
-          "53.99590874151704"
+          "53.995908741517042"
         ],
         [
           "2025-08-01",
@@ -2204,18 +2388,22 @@
         ],
         [
           "2025-11-01",
-          "49.30018665805218"
+          "49.300186658052183"
         ],
         [
           "2026-02-01",
-          "52.28761562122016"
+          "52.287615621220162"
+        ],
+        [
+          "2026-05-01",
+          "38.195955833113821"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC19",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Construction and Extraction Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Construction and Extraction Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2231,7 +2419,7 @@
       "observations": [
         [
           "2024-08-01",
-          "43.35521218067573"
+          "43.355212180675728"
         ],
         [
           "2024-11-01",
@@ -2239,30 +2427,34 @@
         ],
         [
           "2025-02-01",
-          "31.0505278884275"
+          "31.050527888427499"
         ],
         [
           "2025-05-01",
-          "32.39323693097201"
+          "32.393236930972009"
         ],
         [
           "2025-08-01",
-          "31.36616349062878"
+          "31.366163490628779"
         ],
         [
           "2025-11-01",
-          "29.76733433010378"
+          "29.767334330103779"
         ],
         [
           "2026-02-01",
-          "38.51868790025483"
+          "38.518687900254832"
+        ],
+        [
+          "2026-05-01",
+          "33.934892196448843"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC20",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Installation, Maintenance, and Repair Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Installation, Maintenance, and Repair Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2278,38 +2470,42 @@
       "observations": [
         [
           "2024-08-01",
-          "29.06855141016211"
+          "29.068551410162112"
         ],
         [
           "2024-11-01",
-          "32.85762038127361"
+          "32.857620381273613"
         ],
         [
           "2025-02-01",
-          "20.11731832794069"
+          "20.117318327940691"
         ],
         [
           "2025-05-01",
-          "34.53018009848309"
+          "34.530180098483093"
         ],
         [
           "2025-08-01",
-          "35.73335822982891"
+          "35.733358229828909"
         ],
         [
           "2025-11-01",
-          "35.20746882235976"
+          "35.207468822359758"
         ],
         [
           "2026-02-01",
-          "44.78954899658915"
+          "44.789548996589147"
+        ],
+        [
+          "2026-05-01",
+          "31.673634077865781"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC21",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Production Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Production Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2329,7 +2525,7 @@
         ],
         [
           "2024-11-01",
-          "30.22409427850486"
+          "30.224094278504861"
         ],
         [
           "2025-02-01",
@@ -2337,26 +2533,30 @@
         ],
         [
           "2025-05-01",
-          "36.60757184219656"
+          "36.607571842196563"
         ],
         [
           "2025-08-01",
-          "38.4597028231945"
+          "38.459702823194498"
         ],
         [
           "2025-11-01",
-          "28.43181064275229"
+          "28.431810642752289"
         ],
         [
           "2026-02-01",
-          "38.87972115457637"
+          "38.879721154576373"
+        ],
+        [
+          "2026-05-01",
+          "37.909288265171249"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_USAGESHARE_OCC22",
       "metadata": {
-        "title": "Generative Artificial Intelligence Adoption Rate for Work: Transportation and Material Moving Occupations",
+        "title": "Generative Artificial Intelligence, Adoption Rate for Work: Transportation and Material Moving Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2372,7 +2572,7 @@
       "observations": [
         [
           "2024-08-01",
-          "19.84663717245111"
+          "19.846637172451111"
         ],
         [
           "2024-11-01",
@@ -2380,23 +2580,27 @@
         ],
         [
           "2025-02-01",
-          "21.89646582123279"
+          "21.896465821232791"
         ],
         [
           "2025-05-01",
-          "19.91212413890879"
+          "19.912124138908791"
         ],
         [
           "2025-08-01",
-          "17.31304676848936"
+          "17.313046768489361"
         ],
         [
           "2025-11-01",
-          "19.99548001046661"
+          "19.995480010466611"
         ],
         [
           "2026-02-01",
           "22.69307611764069"
+        ],
+        [
+          "2026-05-01",
+          "28.975438365933542"
         ]
       ]
     },
@@ -2444,13 +2648,17 @@
         [
           "2026-02-01",
           "2.15901193081491"
+        ],
+        [
+          "2026-05-01",
+          "2.16733589295299"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND1",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Agriculture, Forestry, Fishing, and Hunting",
+        "title": "Generative Artificial Intelligence, Time Savings: Agriculture, Forestry, Fishing, and Hunting",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2474,7 +2682,7 @@
         ],
         [
           "2025-02-01",
-          "0.8693780598744372"
+          "0.86937805987443717"
         ],
         [
           "2025-05-01",
@@ -2486,18 +2694,22 @@
         ],
         [
           "2025-11-01",
-          "2.025561068029224"
+          "2.0255610680292242"
         ],
         [
           "2026-02-01",
           "1.151078299538242"
+        ],
+        [
+          "2026-05-01",
+          "1.48380525208065"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND2",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Mining, Quarrying, and Oil and Gas Extraction",
+        "title": "Generative Artificial Intelligence, Time Savings: Mining, Quarrying, and Oil and Gas Extraction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2521,15 +2733,15 @@
         ],
         [
           "2025-02-01",
-          "0.7132463747892367"
+          "0.71324637478923669"
         ],
         [
           "2025-05-01",
-          "1.178364866785928"
+          "1.1783648667859279"
         ],
         [
           "2025-08-01",
-          "4.429711679541886"
+          "4.4297116795418869"
         ],
         [
           "2025-11-01",
@@ -2537,14 +2749,18 @@
         ],
         [
           "2026-02-01",
-          "1.71087887394416"
+          "1.7108788739441601"
+        ],
+        [
+          "2026-05-01",
+          "0.67766292659915428"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND3",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Construction",
+        "title": "Generative Artificial Intelligence, Time Savings: Construction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2564,7 +2780,7 @@
         ],
         [
           "2024-11-01",
-          "1.460417575942517"
+          "1.4604175759425171"
         ],
         [
           "2025-02-01",
@@ -2572,26 +2788,30 @@
         ],
         [
           "2025-05-01",
-          "2.785186884040526"
+          "2.7851868840405261"
         ],
         [
           "2025-08-01",
-          "1.639478651446316"
+          "1.6394786514463151"
         ],
         [
           "2025-11-01",
-          "2.708689006570545"
+          "2.7086890065705451"
         ],
         [
           "2026-02-01",
           "1.906078417653549"
+        ],
+        [
+          "2026-05-01",
+          "2.4841153470973101"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND4",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Manufacturing",
+        "title": "Generative Artificial Intelligence, Time Savings: Manufacturing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2611,11 +2831,11 @@
         ],
         [
           "2024-11-01",
-          "1.592949645909291"
+          "1.5929496459092909"
         ],
         [
           "2025-02-01",
-          "1.660517283542084"
+          "1.6605172835420841"
         ],
         [
           "2025-05-01",
@@ -2627,18 +2847,22 @@
         ],
         [
           "2025-11-01",
-          "2.210987596475473"
+          "2.2109875964754728"
         ],
         [
           "2026-02-01",
-          "2.664581100540626"
+          "2.6645811005406261"
+        ],
+        [
+          "2026-05-01",
+          "1.6966314885368079"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND5",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Wholesale Trade",
+        "title": "Generative Artificial Intelligence, Time Savings: Wholesale Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2658,7 +2882,7 @@
         ],
         [
           "2024-11-01",
-          "1.062833016719252"
+          "1.0628330167192519"
         ],
         [
           "2025-02-01",
@@ -2666,26 +2890,30 @@
         ],
         [
           "2025-05-01",
-          "1.909943409678129"
+          "1.9099434096781289"
         ],
         [
           "2025-08-01",
-          "2.143834349460034"
+          "2.1438343494600329"
         ],
         [
           "2025-11-01",
-          "2.566572453888425"
+          "2.5665724538884249"
         ],
         [
           "2026-02-01",
-          "2.409251066224902"
+          "2.4092510662249009"
+        ],
+        [
+          "2026-05-01",
+          "2.8261876653410489"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND6",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Retail Trade",
+        "title": "Generative Artificial Intelligence, Time Savings: Retail Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2709,30 +2937,34 @@
         ],
         [
           "2025-02-01",
-          "1.289087680077465"
+          "1.2890876800774651"
         ],
         [
           "2025-05-01",
-          "1.495480945081266"
+          "1.4954809450812661"
         ],
         [
           "2025-08-01",
-          "2.394366357376669"
+          "2.3943663573766689"
         ],
         [
           "2025-11-01",
-          "2.732292146246004"
+          "2.7322921462460039"
         ],
         [
           "2026-02-01",
           "1.600251764612592"
+        ],
+        [
+          "2026-05-01",
+          "1.9142074566739249"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND7",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Transportation and Warehousing",
+        "title": "Generative Artificial Intelligence, Time Savings: Transportation and Warehousing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2752,15 +2984,15 @@
         ],
         [
           "2024-11-01",
-          "1.488593573349109"
+          "1.4885935733491089"
         ],
         [
           "2025-02-01",
-          "1.300756983111586"
+          "1.3007569831115859"
         ],
         [
           "2025-05-01",
-          "2.008305797255637"
+          "2.008305797255638"
         ],
         [
           "2025-08-01",
@@ -2772,14 +3004,18 @@
         ],
         [
           "2026-02-01",
-          "1.231501059538546"
+          "1.2315010595385461"
+        ],
+        [
+          "2026-05-01",
+          "1.587274731887633"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND8",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Utilities",
+        "title": "Generative Artificial Intelligence, Time Savings: Utilities",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2799,11 +3035,11 @@
         ],
         [
           "2024-11-01",
-          "0.9868165861128347"
+          "0.98681658611283474"
         ],
         [
           "2025-02-01",
-          "0.6409545368577698"
+          "0.64095453685776982"
         ],
         [
           "2025-05-01",
@@ -2811,7 +3047,7 @@
         ],
         [
           "2025-08-01",
-          "1.526462673910154"
+          "1.5264626739101541"
         ],
         [
           "2025-11-01",
@@ -2820,13 +3056,17 @@
         [
           "2026-02-01",
           "1.07396290056887"
+        ],
+        [
+          "2026-05-01",
+          "1.24735405511276"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND9",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Information",
+        "title": "Generative Artificial Intelligence, Time Savings: Information",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2846,34 +3086,38 @@
         ],
         [
           "2024-11-01",
-          "2.728119741864571"
+          "2.7281197418645711"
         ],
         [
           "2025-02-01",
-          "4.009619028236671"
+          "4.0096190282366706"
         ],
         [
           "2025-05-01",
-          "2.867023354793316"
+          "2.867023354793317"
         ],
         [
           "2025-08-01",
-          "3.807198243425335"
+          "3.8071982434253351"
         ],
         [
           "2025-11-01",
-          "3.802303051315877"
+          "3.8023030513158771"
         ],
         [
           "2026-02-01",
           "4.053516956974871"
+        ],
+        [
+          "2026-05-01",
+          "4.8530973207865644"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND10",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Finance and Insurance",
+        "title": "Generative Artificial Intelligence, Time Savings: Finance and Insurance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2893,34 +3137,38 @@
         ],
         [
           "2024-11-01",
-          "2.319071438028189"
+          "2.3190714380281889"
         ],
         [
           "2025-02-01",
-          "1.551111357017534"
+          "1.5511113570175341"
         ],
         [
           "2025-05-01",
-          "2.278429687100305"
+          "2.2784296871003051"
         ],
         [
           "2025-08-01",
-          "2.977207421201768"
+          "2.9772074212017672"
         ],
         [
           "2025-11-01",
-          "3.155461290322242"
+          "3.1554612903222421"
         ],
         [
           "2026-02-01",
-          "3.522652932213958"
+          "3.5226529322139579"
+        ],
+        [
+          "2026-05-01",
+          "3.289746288310607"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND11",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Real Estate and Rental and Leasing",
+        "title": "Generative Artificial Intelligence, Time Savings: Real Estate and Rental and Leasing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2944,7 +3192,7 @@
         ],
         [
           "2025-02-01",
-          "1.237555281009911"
+          "1.2375552810099111"
         ],
         [
           "2025-05-01",
@@ -2952,7 +3200,7 @@
         ],
         [
           "2025-08-01",
-          "2.606910963028571"
+          "2.6069109630285712"
         ],
         [
           "2025-11-01",
@@ -2960,14 +3208,18 @@
         ],
         [
           "2026-02-01",
-          "2.854016975036548"
+          "2.8540169750365481"
+        ],
+        [
+          "2026-05-01",
+          "2.5992014160180248"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND12",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Professional, Scientific, and Technical Services",
+        "title": "Generative Artificial Intelligence, Time Savings: Professional, Scientific, and Technical Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -2987,34 +3239,38 @@
         ],
         [
           "2024-11-01",
-          "1.994703323618973"
+          "1.9947033236189731"
         ],
         [
           "2025-02-01",
-          "2.553885110982513"
+          "2.5538851109825131"
         ],
         [
           "2025-05-01",
-          "3.362548575855621"
+          "3.3625485758556208"
         ],
         [
           "2025-08-01",
-          "2.869996180781613"
+          "2.8699961807816128"
         ],
         [
           "2025-11-01",
-          "3.229683757356445"
+          "3.2296837573564452"
         ],
         [
           "2026-02-01",
-          "3.602773333697541"
+          "3.6027733336975412"
+        ],
+        [
+          "2026-05-01",
+          "3.9382219576910571"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND13",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Management of Companies and Enterprises",
+        "title": "Generative Artificial Intelligence, Time Savings: Management of Companies and Enterprises",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3034,11 +3290,11 @@
         ],
         [
           "2024-11-01",
-          "4.266028282662599"
+          "4.2660282826625986"
         ],
         [
           "2025-02-01",
-          "3.171222399510768"
+          "3.1712223995107678"
         ],
         [
           "2025-05-01",
@@ -3046,22 +3302,26 @@
         ],
         [
           "2025-08-01",
-          "2.978847066424982"
+          "2.9788470664249829"
         ],
         [
           "2025-11-01",
-          "3.945604323942814"
+          "3.9456043239428138"
         ],
         [
           "2026-02-01",
-          "3.768098900794829"
+          "3.7680989007948291"
+        ],
+        [
+          "2026-05-01",
+          "3.9151456854999709"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND14",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Administrative and Support and Waste Management Services",
+        "title": "Generative Artificial Intelligence, Time Savings: Administrative and Support and Waste Management Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3081,34 +3341,38 @@
         ],
         [
           "2024-11-01",
-          "0.7422211909204101"
+          "0.74222119092041006"
         ],
         [
           "2025-02-01",
-          "0.9976743405494894"
+          "0.99767434054948945"
         ],
         [
           "2025-05-01",
-          "1.276473663328452"
+          "1.2764736633284519"
         ],
         [
           "2025-08-01",
-          "1.14273257501372"
+          "1.1427325750137201"
         ],
         [
           "2025-11-01",
-          "0.7421762666179128"
+          "0.74217626661791281"
         ],
         [
           "2026-02-01",
           "1.266711045314552"
+        ],
+        [
+          "2026-05-01",
+          "3.4899386984296941"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND15",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Educational Services",
+        "title": "Generative Artificial Intelligence, Time Savings: Educational Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3128,7 +3392,7 @@
         ],
         [
           "2024-11-01",
-          "1.329849561324992"
+          "1.3298495613249921"
         ],
         [
           "2025-02-01",
@@ -3136,7 +3400,7 @@
         ],
         [
           "2025-05-01",
-          "1.581379872406871"
+          "1.5813798724068711"
         ],
         [
           "2025-08-01",
@@ -3144,18 +3408,22 @@
         ],
         [
           "2025-11-01",
-          "2.388203389839925"
+          "2.3882033898399251"
         ],
         [
           "2026-02-01",
-          "2.826428530183389"
+          "2.82642853018339"
+        ],
+        [
+          "2026-05-01",
+          "1.726746456428774"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND16",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Health Care and Social Assistance",
+        "title": "Generative Artificial Intelligence, Time Savings: Health Care and Social Assistance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3175,7 +3443,7 @@
         ],
         [
           "2024-11-01",
-          "1.000841659462702"
+          "1.0008416594627021"
         ],
         [
           "2025-02-01",
@@ -3183,11 +3451,11 @@
         ],
         [
           "2025-05-01",
-          "1.35313341947295"
+          "1.3531334194729501"
         ],
         [
           "2025-08-01",
-          "0.7371895587082034"
+          "0.73718955870820335"
         ],
         [
           "2025-11-01",
@@ -3196,13 +3464,17 @@
         [
           "2026-02-01",
           "1.760043772823862"
+        ],
+        [
+          "2026-05-01",
+          "1.485303308041577"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND17",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Arts, Entertainment, and Recreation",
+        "title": "Generative Artificial Intelligence, Time Savings: Arts, Entertainment, and Recreation",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3222,11 +3494,11 @@
         ],
         [
           "2024-11-01",
-          "1.203588422326371"
+          "1.2035884223263711"
         ],
         [
           "2025-02-01",
-          "1.441282029909987"
+          "1.4412820299099871"
         ],
         [
           "2025-05-01",
@@ -3234,22 +3506,26 @@
         ],
         [
           "2025-08-01",
-          "2.120282966145758"
+          "2.120282966145759"
         ],
         [
           "2025-11-01",
-          "1.747209218784939"
+          "1.7472092187849391"
         ],
         [
           "2026-02-01",
-          "1.760456123518655"
+          "1.7604561235186551"
+        ],
+        [
+          "2026-05-01",
+          "1.276619105487224"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND18",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Accommodation and Food Services",
+        "title": "Generative Artificial Intelligence, Time Savings: Accommodation and Food Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3269,34 +3545,38 @@
         ],
         [
           "2024-11-01",
-          "0.6238806383365916"
+          "0.62388063833659158"
         ],
         [
           "2025-02-01",
-          "1.06022414585162"
+          "1.0602241458516199"
         ],
         [
           "2025-05-01",
-          "0.8142662600464052"
+          "0.81426626004640523"
         ],
         [
           "2025-08-01",
-          "0.7302552732999539"
+          "0.73025527329995388"
         ],
         [
           "2025-11-01",
-          "0.7517232891440303"
+          "0.75172328914403019"
         ],
         [
           "2026-02-01",
-          "1.329666686661899"
+          "1.3296666866618989"
+        ],
+        [
+          "2026-05-01",
+          "1.5603812248091009"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND19",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Other Services, Except Public Administration",
+        "title": "Generative Artificial Intelligence, Time Savings: Other Services, Except Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3316,7 +3596,7 @@
         ],
         [
           "2024-11-01",
-          "0.7866002074281158"
+          "0.78660020742811576"
         ],
         [
           "2025-02-01",
@@ -3328,22 +3608,26 @@
         ],
         [
           "2025-08-01",
-          "0.7121462176224505"
+          "0.71214621762245045"
         ],
         [
           "2025-11-01",
-          "1.443448630934756"
+          "1.4434486309347561"
         ],
         [
           "2026-02-01",
           "1.407679525649409"
+        ],
+        [
+          "2026-05-01",
+          "1.2556840278808259"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_IND20",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Public Administration",
+        "title": "Generative Artificial Intelligence, Time Savings: Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3363,15 +3647,15 @@
         ],
         [
           "2024-11-01",
-          "0.9116782800364844"
+          "0.91167828003648443"
         ],
         [
           "2025-02-01",
-          "0.4909754195262511"
+          "0.49097541952625112"
         ],
         [
           "2025-05-01",
-          "0.3207390929607948"
+          "0.32073909296079478"
         ],
         [
           "2025-08-01",
@@ -3379,18 +3663,22 @@
         ],
         [
           "2025-11-01",
-          "0.8357573432137259"
+          "0.83575734321372586"
         ],
         [
           "2026-02-01",
-          "0.4980153552644304"
+          "0.49801535526443041"
+        ],
+        [
+          "2026-05-01",
+          "1.2541821922201239"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC1",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Management Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Management Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3410,7 +3698,7 @@
         ],
         [
           "2024-11-01",
-          "2.455105513833842"
+          "2.4551055138338418"
         ],
         [
           "2025-02-01",
@@ -3418,7 +3706,7 @@
         ],
         [
           "2025-05-01",
-          "2.59120048346801"
+          "2.5912004834680098"
         ],
         [
           "2025-08-01",
@@ -3426,18 +3714,22 @@
         ],
         [
           "2025-11-01",
-          "3.303062495844219"
+          "3.3030624958442201"
         ],
         [
           "2026-02-01",
-          "3.496448227794455"
+          "3.4964482277944549"
+        ],
+        [
+          "2026-05-01",
+          "3.716084272261329"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC2",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Business and Financial Operations Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Business and Financial Operations Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3457,15 +3749,15 @@
         ],
         [
           "2024-11-01",
-          "2.01773316225939"
+          "2.0177331622593901"
         ],
         [
           "2025-02-01",
-          "1.522199533916938"
+          "1.5221995339169381"
         ],
         [
           "2025-05-01",
-          "1.782547753663124"
+          "1.7825477536631249"
         ],
         [
           "2025-08-01",
@@ -3473,18 +3765,22 @@
         ],
         [
           "2025-11-01",
-          "3.282404095241698"
+          "3.2824040952416991"
         ],
         [
           "2026-02-01",
-          "3.189817953491564"
+          "3.1898179534915641"
+        ],
+        [
+          "2026-05-01",
+          "2.8935796804614369"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC3",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Computer and Mathematical Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Computer and Mathematical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3504,34 +3800,38 @@
         ],
         [
           "2024-11-01",
-          "2.64280104323441"
+          "2.6428010432344098"
         ],
         [
           "2025-02-01",
-          "3.46783047868611"
+          "3.4678304786861109"
         ],
         [
           "2025-05-01",
-          "3.79657468787109"
+          "3.7965746878710891"
         ],
         [
           "2025-08-01",
-          "3.467591100803505"
+          "3.4675911008035052"
         ],
         [
           "2025-11-01",
-          "4.202438675970247"
+          "4.2024386759702468"
         ],
         [
           "2026-02-01",
-          "3.941884377106745"
+          "3.9418843771067449"
+        ],
+        [
+          "2026-05-01",
+          "4.797303385240701"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC4",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Architecture and Engineering Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Architecture and Engineering Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3559,7 +3859,7 @@
         ],
         [
           "2025-05-01",
-          "3.245611858697917"
+          "3.2456118586979179"
         ],
         [
           "2025-08-01",
@@ -3567,18 +3867,22 @@
         ],
         [
           "2025-11-01",
-          "2.536128389115382"
+          "2.5361283891153819"
         ],
         [
           "2026-02-01",
           "3.917551837032728"
+        ],
+        [
+          "2026-05-01",
+          "3.150009566234643"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC5",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Life, Physical, and Social Science Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Life, Physical, and Social Science Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3606,26 +3910,30 @@
         ],
         [
           "2025-05-01",
-          "2.768327303179975"
+          "2.7683273031799751"
         ],
         [
           "2025-08-01",
-          "3.491112664831003"
+          "3.4911126648310029"
         ],
         [
           "2025-11-01",
-          "3.333508167908413"
+          "3.3335081679084131"
         ],
         [
           "2026-02-01",
-          "2.768156659699302"
+          "2.7681566596993021"
+        ],
+        [
+          "2026-05-01",
+          "2.4771157623748801"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC6",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Community and Social Service Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Community and Social Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3649,7 +3957,7 @@
         ],
         [
           "2025-02-01",
-          "1.472356950277591"
+          "1.4723569502775911"
         ],
         [
           "2025-05-01",
@@ -3657,22 +3965,26 @@
         ],
         [
           "2025-08-01",
-          "0.7106149614634847"
+          "0.71061496146348468"
         ],
         [
           "2025-11-01",
-          "1.65723420433497"
+          "1.6572342043349699"
         ],
         [
           "2026-02-01",
           "2.739787832703136"
+        ],
+        [
+          "2026-05-01",
+          "2.2001361284439982"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC7",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Legal Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Legal Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3692,7 +4004,7 @@
         ],
         [
           "2024-11-01",
-          "0.3958049515449693"
+          "0.39580495154496931"
         ],
         [
           "2025-02-01",
@@ -3704,22 +4016,26 @@
         ],
         [
           "2025-08-01",
-          "6.230879642544421"
+          "6.2308796425444211"
         ],
         [
           "2025-11-01",
-          "4.003430542692453"
+          "4.0034305426924526"
         ],
         [
           "2026-02-01",
-          "2.594659497399012"
+          "2.5946594973990118"
+        ],
+        [
+          "2026-05-01",
+          "3.5189544237750261"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC8",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Educational Instruction and Library Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Educational Instruction and Library Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3739,15 +4055,15 @@
         ],
         [
           "2024-11-01",
-          "1.649564661739288"
+          "1.6495646617392881"
         ],
         [
           "2025-02-01",
-          "2.231025794594146"
+          "2.2310257945941459"
         ],
         [
           "2025-05-01",
-          "1.982003203335316"
+          "1.9820032033353161"
         ],
         [
           "2025-08-01",
@@ -3759,14 +4075,18 @@
         ],
         [
           "2026-02-01",
-          "3.124404957193588"
+          "3.1244049571935868"
+        ],
+        [
+          "2026-05-01",
+          "2.2181505838987001"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC9",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Arts, Design, Entertainment, Sports, and Media Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Arts, Design, Entertainment, Sports, and Media Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3790,15 +4110,15 @@
         ],
         [
           "2025-02-01",
-          "2.998880577657815"
+          "2.9988805776578138"
         ],
         [
           "2025-05-01",
-          "3.224874655887349"
+          "3.2248746558873478"
         ],
         [
           "2025-08-01",
-          "3.530677317282988"
+          "3.5306773172829868"
         ],
         [
           "2025-11-01",
@@ -3806,14 +4126,18 @@
         ],
         [
           "2026-02-01",
-          "2.484931348275964"
+          "2.4849313482759641"
+        ],
+        [
+          "2026-05-01",
+          "2.6697516815741449"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC10",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Healthcare Practitioners and Technical Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Healthcare Practitioners and Technical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3833,7 +4157,7 @@
         ],
         [
           "2024-11-01",
-          "1.536799037506973"
+          "1.5367990375069731"
         ],
         [
           "2025-02-01",
@@ -3845,7 +4169,7 @@
         ],
         [
           "2025-08-01",
-          "0.929214017568126"
+          "0.92921401756812605"
         ],
         [
           "2025-11-01",
@@ -3854,13 +4178,17 @@
         [
           "2026-02-01",
           "1.658321740785883"
+        ],
+        [
+          "2026-05-01",
+          "1.7515973970229171"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC11",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Healthcare Support Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Healthcare Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3880,11 +4208,11 @@
         ],
         [
           "2024-11-01",
-          "0.2829022597990237"
+          "0.28290225979902373"
         ],
         [
           "2025-02-01",
-          "1.089543092610954"
+          "1.0895430926109539"
         ],
         [
           "2025-05-01",
@@ -3892,22 +4220,26 @@
         ],
         [
           "2025-08-01",
-          "0.3945512745523854"
+          "0.39455127455238542"
         ],
         [
           "2025-11-01",
-          "0.9519583497464721"
+          "0.95195834974647209"
         ],
         [
           "2026-02-01",
           "1.75953592679245"
+        ],
+        [
+          "2026-05-01",
+          "1.015818531142221"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC12",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Protective Service Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Protective Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3927,19 +4259,19 @@
         ],
         [
           "2024-11-01",
-          "0.1551305963564699"
+          "0.15513059635646989"
         ],
         [
           "2025-02-01",
-          "0.03784766198405225"
+          "3.7847661984052247E-2"
         ],
         [
           "2025-05-01",
-          "0.04587238341552449"
+          "4.5872383415524493E-2"
         ],
         [
           "2025-08-01",
-          "0.9919800611371906"
+          "0.99198006113719062"
         ],
         [
           "2025-11-01",
@@ -3947,14 +4279,18 @@
         ],
         [
           "2026-02-01",
-          "0.3556094564185762"
+          "0.35560945641857622"
+        ],
+        [
+          "2026-05-01",
+          "0.63284655706018511"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC13",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Food Preparation and Serving Related Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Food Preparation and Serving Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -3974,7 +4310,7 @@
         ],
         [
           "2024-11-01",
-          "0.6634868541418422"
+          "0.66348685414184216"
         ],
         [
           "2025-02-01",
@@ -3982,26 +4318,30 @@
         ],
         [
           "2025-05-01",
-          "0.8536033564296883"
+          "0.85360335642968832"
         ],
         [
           "2025-08-01",
-          "0.8631444169558564"
+          "0.86314441695585642"
         ],
         [
           "2025-11-01",
-          "0.7798676833227532"
+          "0.77986768332275325"
         ],
         [
           "2026-02-01",
-          "0.7199911455772263"
+          "0.71999114557722632"
+        ],
+        [
+          "2026-05-01",
+          "1.187073057361232"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC14",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Building and Grounds Cleaning and Maintenance Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Building and Grounds Cleaning and Maintenance Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4021,7 +4361,7 @@
         ],
         [
           "2024-11-01",
-          "1.036442005218232"
+          "1.0364420052182319"
         ],
         [
           "2025-02-01",
@@ -4029,26 +4369,30 @@
         ],
         [
           "2025-05-01",
-          "0.3013921475690546"
+          "0.30139214756905458"
         ],
         [
           "2025-08-01",
-          "0.3996651454088339"
+          "0.39966514540883391"
         ],
         [
           "2025-11-01",
-          "0.2323920734533639"
+          "0.23239207345336391"
         ],
         [
           "2026-02-01",
-          "0.6115694847017616"
+          "0.61156948470176165"
+        ],
+        [
+          "2026-05-01",
+          "2.015974147012118"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC15",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Personal Care and Service Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Personal Care and Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4068,34 +4412,38 @@
         ],
         [
           "2024-11-01",
-          "0.8778653955140542"
+          "0.87786539551405418"
         ],
         [
           "2025-02-01",
-          "2.103419690263636"
+          "2.1034196902636362"
         ],
         [
           "2025-05-01",
-          "0.2791871856960906"
+          "0.27918718569609058"
         ],
         [
           "2025-08-01",
-          "0.6896803681396134"
+          "0.68968036813961342"
         ],
         [
           "2025-11-01",
-          "1.024452929571421"
+          "1.0244529295714211"
         ],
         [
           "2026-02-01",
-          "1.637561374527924"
+          "1.6375613745279241"
+        ],
+        [
+          "2026-05-01",
+          "0.93517116238426323"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC16",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Sales and Related Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Sales and Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4115,7 +4463,7 @@
         ],
         [
           "2024-11-01",
-          "1.336111644323689"
+          "1.3361116443236889"
         ],
         [
           "2025-02-01",
@@ -4123,26 +4471,30 @@
         ],
         [
           "2025-05-01",
-          "2.282200224561094"
+          "2.2822002245610942"
         ],
         [
           "2025-08-01",
-          "0.9979794641477125"
+          "0.99797946414771255"
         ],
         [
           "2025-11-01",
-          "1.441535394170996"
+          "1.4415353941709961"
         ],
         [
           "2026-02-01",
           "1.82706038486081"
+        ],
+        [
+          "2026-05-01",
+          "1.782302891083243"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC17",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Office and Administrative Support Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Office and Administrative Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4162,11 +4514,11 @@
         ],
         [
           "2024-11-01",
-          "0.6735619183076514"
+          "0.67356191830765144"
         ],
         [
           "2025-02-01",
-          "0.8077774680743383"
+          "0.80777746807433826"
         ],
         [
           "2025-05-01",
@@ -4182,14 +4534,18 @@
         ],
         [
           "2026-02-01",
-          "1.728387851890829"
+          "1.7283878518908291"
+        ],
+        [
+          "2026-05-01",
+          "1.965985396026136"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC18",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Farming, Fishing, and Forestry Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Farming, Fishing, and Forestry Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4213,11 +4569,11 @@
         ],
         [
           "2025-02-01",
-          "0.605716272831422"
+          "0.60571627283142204"
         ],
         [
           "2025-05-01",
-          "2.940819453826938"
+          "2.9408194538269381"
         ],
         [
           "2025-08-01",
@@ -4229,14 +4585,18 @@
         ],
         [
           "2026-02-01",
-          "0.9412623336082637"
+          "0.94126233360826372"
+        ],
+        [
+          "2026-05-01",
+          "1.296611636758729"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC19",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Construction and Extraction Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Construction and Extraction Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4264,26 +4624,30 @@
         ],
         [
           "2025-05-01",
-          "1.221603857527958"
+          "1.2216038575279571"
         ],
         [
           "2025-08-01",
-          "1.337763513562806"
+          "1.337763513562807"
         ],
         [
           "2025-11-01",
-          "1.2232660872702"
+          "1.2232660872701999"
         ],
         [
           "2026-02-01",
           "1.433558729422991"
+        ],
+        [
+          "2026-05-01",
+          "1.2654324669910639"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC20",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Installation, Maintenance, and Repair Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Installation, Maintenance, and Repair Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4307,7 +4671,7 @@
         ],
         [
           "2025-02-01",
-          "1.170592227934207"
+          "1.1705922279342069"
         ],
         [
           "2025-05-01",
@@ -4319,18 +4683,22 @@
         ],
         [
           "2025-11-01",
-          "1.808728425925887"
+          "1.8087284259258869"
         ],
         [
           "2026-02-01",
-          "1.628528936219427"
+          "1.6285289362194271"
+        ],
+        [
+          "2026-05-01",
+          "1.4976075891047751"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC21",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Production Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Production Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4350,34 +4718,38 @@
         ],
         [
           "2024-11-01",
-          "1.418186700894662"
+          "1.4181867008946609"
         ],
         [
           "2025-02-01",
-          "1.730406334421377"
+          "1.7304063344213769"
         ],
         [
           "2025-05-01",
-          "2.009788286073312"
+          "2.0097882860733121"
         ],
         [
           "2025-08-01",
-          "1.953466393674666"
+          "1.953466393674667"
         ],
         [
           "2025-11-01",
-          "1.340852813438335"
+          "1.3408528134383351"
         ],
         [
           "2026-02-01",
-          "2.094242556259139"
+          "2.0942425562591391"
+        ],
+        [
+          "2026-05-01",
+          "1.563295630102197"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_TS_OCC22",
       "metadata": {
-        "title": "Generative Artificial Intelligence Time Savings: Transportation and Material Moving Occupations",
+        "title": "Generative Artificial Intelligence, Time Savings: Transportation and Material Moving Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4397,34 +4769,38 @@
         ],
         [
           "2024-11-01",
-          "0.7180105316473306"
+          "0.71801053164733064"
         ],
         [
           "2025-02-01",
-          "0.733462815538495"
+          "0.73346281553849502"
         ],
         [
           "2025-05-01",
-          "0.9965718285809491"
+          "0.99657182858094906"
         ],
         [
           "2025-08-01",
-          "0.8228646720826926"
+          "0.82286467208269265"
         ],
         [
           "2025-11-01",
-          "0.9959395031375058"
+          "0.99593950313750579"
         ],
         [
           "2026-02-01",
-          "0.8790389613204487"
+          "0.87903896132044868"
+        ],
+        [
+          "2026-05-01",
+          "1.2335700572336581"
         ]
       ]
     },
     {
       "source_id": "RPS_GENAI_ASSISTWRKHRS_ALL",
       "metadata": {
-        "title": "Work Hours Assisted: Employed Adults",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Employed Adults",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4475,7 +4851,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND1",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Agriculture, Forestry, Fishing, and Hunting",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Agriculture, Forestry, Fishing, and Hunting",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4526,7 +4902,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND2",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Mining, Quarrying, and Oil and Gas Extraction",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Mining, Quarrying, and Oil and Gas Extraction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4577,7 +4953,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND3",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Construction",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Construction",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4628,7 +5004,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND4",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Manufacturing",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Manufacturing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4679,7 +5055,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND5",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Wholesale Trade",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Wholesale Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4730,7 +5106,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND6",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Retail Trade",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Retail Trade",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4781,7 +5157,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND7",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Transportation and Warehousing",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Transportation and Warehousing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4832,7 +5208,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND8",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Utilities",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Utilities",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4883,7 +5259,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND9",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Information",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Information",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4934,7 +5310,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND10",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Finance and Insurance",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Finance and Insurance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -4985,7 +5361,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND11",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Real Estate and Rental and Leasing",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Real Estate and Rental and Leasing",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5036,7 +5412,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND12",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Professional, Scientific, and Technical Services",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Professional, Scientific, and Technical Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5087,7 +5463,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND13",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Management of Companies and Enterprises",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Management of Companies and Enterprises",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5138,7 +5514,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND14",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Administrative and Support and Waste Management Services",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Administrative and Support and Waste Management Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5189,7 +5565,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND15",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Educational Services",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Educational Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5240,7 +5616,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND16",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Health Care and Social Assistance",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Health Care and Social Assistance",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5291,7 +5667,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND17",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Arts, Entertainment, and Recreation",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Arts, Entertainment, and Recreation",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5342,7 +5718,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND18",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Accommodation and Food Services",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Accommodation and Food Services",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5393,7 +5769,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND19",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Other Services, Except Public Administration",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Other Services, Except Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5444,7 +5820,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_IND20",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Public Administration",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Public Administration",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5495,7 +5871,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC1",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Management Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Management Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5546,7 +5922,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC2",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Business and Financial Operations Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Business and Financial Operations Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5597,7 +5973,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC3",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Computer and Mathematical Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Computer and Mathematical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5648,7 +6024,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC4",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Architecture and Engineering Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Architecture and Engineering Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5699,7 +6075,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC5",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Life, Physical, and Social Science Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Life, Physical, and Social Science Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5750,7 +6126,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC6",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Community and Social Service Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Community and Social Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5801,7 +6177,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC7",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Legal Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Legal Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5852,7 +6228,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC8",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Educational Instruction and Library Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Educational Instruction and Library Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5903,7 +6279,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC9",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Arts, Design, Entertainment, Sports, and Media Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Arts, Design, Entertainment, Sports, and Media Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -5954,7 +6330,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC10",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Healthcare Practitioners and Technical Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Healthcare Practitioners and Technical Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6005,7 +6381,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC11",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Healthcare Support Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Healthcare Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6056,7 +6432,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC12",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Protective Service Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Protective Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6107,7 +6483,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC13",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Food Preparation and Serving Related Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Food Preparation and Serving Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6158,7 +6534,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC14",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Building and Grounds Cleaning and Maintenance Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Building and Grounds Cleaning and Maintenance Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6209,7 +6585,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC15",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Personal Care and Service Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Personal Care and Service Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6260,7 +6636,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC16",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Sales and Related Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Sales and Related Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6311,7 +6687,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC17",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Office and Administrative Support Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Office and Administrative Support Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6362,7 +6738,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC18",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Farming, Fishing, and Forestry Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Farming, Fishing, and Forestry Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6413,7 +6789,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC19",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Construction and Extraction Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Construction and Extraction Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6464,7 +6840,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC20",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Installation, Maintenance, and Repair Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Installation, Maintenance, and Repair Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6515,7 +6891,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC21",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Production Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Production Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
@@ -6566,7 +6942,7 @@
     {
       "source_id": "RPS_GENAI_WORKHOURSASSISTED_OCC22",
       "metadata": {
-        "title": "Generative Artificial Intelligence Work Hours Assisted: Transportation and Material Moving Occupations",
+        "title": "Generative Artificial Intelligence, Work Hours Assisted: Transportation and Material Moving Occupations",
         "frequency": "Q",
         "season": "NSA",
         "units": "Percent",
